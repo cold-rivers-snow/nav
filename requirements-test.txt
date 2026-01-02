@@ -1,0 +1,5 @@
+# Testing dependencies for property-based tests
+hypothesis>=6.0.0
+pytest>=7.0.0
+PyYAML>=6.0.0
+toml>=0.10.0
