@@ -1,7 +1,7 @@
 ---
 
 - taxonomy: 常用推荐
-  icon: far fa-star
+  icon: fas fa-fire-alt fa-lg
   links: 
     - title: My GitHub
       logo: github.png
@@ -43,7 +43,7 @@
 
 
 - taxonomy: 科研办公
-  icon: fas fa-flask fa-lg
+  icon: fas fa-graduation-cap fa-lg
   list:
     - term: 生物信息
       links:
@@ -118,7 +118,7 @@
         
 
 - taxonomy: 悠闲娱乐
-  icon: fas fa-film fa-lg
+  icon: fas fa-gamepad fa-lg
   list:
     - term: 影音视频
       links:
@@ -159,7 +159,7 @@
    
       
 - taxonomy: 素材资源
-  icon: far fa-folder-open fa-lg
+  icon: fas fa-fill-drip fa-lg
   list:
     - term: 网盘资源
       links:
@@ -370,7 +370,7 @@
       
 
 - taxonomy: 开发设计
-  icon: fas fa-tools fa-lg
+  icon: fas fa-laptop-code fa-lg
   list: 
     - term: 图形创意
       links:
@@ -550,7 +550,7 @@
 
 
 - taxonomy: 资讯学习
-  icon: fas fa-pencil-alt fa-lg
+  icon: fas fa-book-open fa-lg
   list: 
     - term: 资讯书籍
       links:
@@ -626,7 +626,7 @@
           description: 程序员的梦工厂（有UI课程）。
         
 - taxonomy: 实用工具
-  icon: fa fa-bookmark
+  icon: fas fa-toolbox fa-lg
   list:
   - term: 开发相关
     links:
@@ -1208,7 +1208,7 @@
       logo: https://www.linshiyouxiang.net/public/zh-CN/img/favicon.ico
       description: 10分钟邮箱，临时邮箱，临时邮，临时电子邮箱，24小时邮箱，一次性邮箱，匿名邮箱，安全邮箱
 - taxonomy: WEB前端
-  icon: fa fa-bookmark
+  icon: fab fa-chrome fa-lg
   list:
   - term: JavaScript
     links:
@@ -2431,7 +2431,7 @@
       logo: https://avatars2.githubusercontent.com/u/26534952?s=200&v=4
       description: 前端精读周刊
 - taxonomy: Node.js
-  icon: fa fa-bookmark
+  icon: fab fa-node-js fa-lg
   list:
   - term: 生态系统
     links:
@@ -2995,7 +2995,7 @@
       logo: https://avatars1.githubusercontent.com/u/42048915?s=200&v=4
       description: 适用于Deno的Visual Studio Code插件
 - taxonomy: Golang
-  icon: fa fa-bookmark
+  icon: fab fa-google fa-lg
   list:
   - term: 生态系统
     links:
@@ -3304,7 +3304,7 @@
       logo: https://avatars1.githubusercontent.com/u/4314092?s=200&v=4
       description: WEB 框架Gin实战
 - taxonomy: Flutter
-  icon: fa fa-bookmark
+  icon: fab fa-android fa-lg
   list:
   - term: 生态系统
     links:
@@ -3413,7 +3413,7 @@
       logo: https://flutter.dev/images/favicon.png
       description: Best-Flutter-UI-模板, 对所有人完全免费。其内置的Flutter Dart。
 - taxonomy: Python
-  icon: fa fa-bookmark
+  icon: fab fa-python fa-lg
   list:
   - term: 生态系统
     links:
@@ -3532,7 +3532,7 @@
       logo: https://www.python.org/static/favicon.ico
       description: 精选的Python框架，库，软件和资源的精选清单。
 - taxonomy: 社区站点
-  icon: fa fa-bookmark
+  icon: fas fa-comments fa-lg
   list:
   - term: 社区站点
     links:
@@ -3637,7 +3637,7 @@
       logo: https://dn-coding-net-production-static.codehub.cn/platform/favicon.ico
       description: 面向开发者的云端开发平台，提供 git/svn 代码托管，代码质量分析，在线WebIDE，项目管理...
 - taxonomy: Design
-  icon: fa fa-bookmark
+  icon: fas fa-bezier-curve fa-lg
   list:
   - term: Design
     links:
@@ -3738,7 +3738,7 @@
       logo: https://colorhunt.co/img/color-hunt-icon-ios.png
       description: Color Hunt是一个免费开放的平台，可通过数千种精选的时尚调色板来激发色彩灵感
 - taxonomy: 学无止境
-  icon: fa fa-bookmark
+  icon: fas fa-university fa-lg
   list:
   - term: 参考文档
     links:
@@ -3928,7 +3928,7 @@
       logo: https://github.com/favicon.ico
       description: 算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~
 - taxonomy: 网络安全
-  icon: fa fa-bookmark
+  icon: fas fa-user-secret fa-lg
   list:
   - term: 网络安全
     links:
@@ -4041,7 +4041,7 @@
       logo: ''
       description: 内网渗透TIPS
 - taxonomy: 运营相关
-  icon: fa fa-bookmark
+  icon: fas fa-bullhorn fa-lg
   list:
   - term: 运营相关
     links:
@@ -4078,7 +4078,7 @@
       logo: https://www.google.com/favicon.ico
       description: ''
 - taxonomy: 博客看点
-  icon: fa fa-bookmark
+  icon: fas fa-rss-square fa-lg
   list:
   - term: 博客看点
     links:
