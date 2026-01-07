@@ -38,62 +38,71 @@
     url: https://cold-rivers-snow.github.io
     qrcode: qrcode.jpg
     description: 微信公众号：陈言记
-  - title: 史提芬先森 · 语雀
-    url: https://www.yuque.com/shenweiyan
-    logo: https://res.bioit.top/logos/y/yuque.webp
-    description: 作者的语雀花园主页。
-  - title: Digital-Garden
-    url: https://github.com/shenweiyan/Digital-Garden
-    logo: https://res.bioit.top/logos/k/knowledge-garden.webp
-    description: All in GitHub Discussions.
-  - title: 数字花园
-    url: https://weiyan.cc
-    logo: https://res.bioit.top/logos/o/octocat.png
-    description: 基于 MkDocs Material 个人站点。
-  - title: BioIT 爱好者
-    url: https://github.com/bioitee
-    logo: https://res.bioit.top/logos/b/bioitee.webp
-    description: BioIT 爱好者主页。
-  - title: Markdown2Html
-    url: https://md.bioitee.com/
-    logo: https://res.bioit.top/logos/m/markdown.png
-    description: 公众号 Markdown 排版利器。
-  - title: 飞书消息
-    url: https://shenweiyan.feishu.cn/next/messenger
-    logo: https://res.bioit.top/logos/l/lark-suite.webp
-    description: 先进企业，先用飞书。
-  - title: Lark Suite Messenger
-    url: https://shenweiyan.sg.larksuite.com/next/messenger
-    logo: https://res.bioit.top/logos/l/lark-suite.webp
-    description: 先进企业协作与管理平台。
-  - title: 语雀
-    url: https://www.yuque.com/
-    logo: https://res.bioit.top/logos/y/yuque.webp
-    description: 专业的云端知识库。
-  - title: 文心一言
-    url: https://yiyan.baidu.com/
-    logo: https://res.bioit.top/logos/y/yiyan-baidu-com.webp
-    description: yiyan.baidu.com
-  - title: ChatGPT
-    url: https://chat.openai.com/
-    logo: https://res.bioit.top/logos/c/chatgpt.webp
-    description: chat.openai.com
-  - title: 豆包 AI
-    url: https://www.doubao.com/chat/
-    logo: https://lf3-static.bytednsdoc.com/obj/eden-cn/pipieh7nupabozps/doubao/doubao-icon.png
-    description: 字节跳动的智能 AI 助手。
-  - title: 通义千问
-    url: https://www.qianwen.com/
-    logo: https://img.alicdn.com/imgextra/i4/O1CN01T0R2R81V3hYc4Q0bH_!!6000000002603-2-tps-128-128.png
-    description: 阿里巴巴的大模型。
-  - title: ChatHub
-    url: https://app.chathub.gg/
-    logo: https://chathub.gg/icon.png
-    description: 在一个应用中使用所有主流 AI 模型。
-  - title: 我的导航
-    url: https://cold-rivers-snow.github.io/nav1/#/
-    logo: github.png
-    description: 个人备用导航站。
+  list:
+  - term: 作者站点
+    links:
+    - title: 史提芬先森 · 语雀
+      url: https://www.yuque.com/shenweiyan
+      logo: https://res.bioit.top/logos/y/yuque.webp
+      description: 作者的语雀花园主页。
+    - title: Digital-Garden
+      url: https://github.com/shenweiyan/Digital-Garden
+      logo: https://res.bioit.top/logos/k/knowledge-garden.webp
+      description: All in GitHub Discussions.
+    - title: 数字花园
+      url: https://weiyan.cc
+      logo: https://res.bioit.top/logos/o/octocat.png
+      description: 基于 MkDocs Material 个人站点。
+    - title: BioIT 爱好者
+      url: https://github.com/bioitee
+      logo: https://res.bioit.top/logos/b/bioitee.webp
+      description: BioIT 爱好者主页。
+    - title: Markdown2Html
+      url: https://md.bioitee.com/
+      logo: https://res.bioit.top/logos/m/markdown.png
+      description: 公众号 Markdown 排版利器。
+    - title: 飞书消息
+      url: https://shenweiyan.feishu.cn/next/messenger
+      logo: https://res.bioit.top/logos/l/lark-suite.webp
+      description: 先进企业，先用飞书。
+    - title: Lark Suite Messenger
+      url: https://shenweiyan.sg.larksuite.com/next/messenger
+      logo: https://res.bioit.top/logos/l/lark-suite.webp
+      description: 先进企业协作与管理平台。
+    - title: 关注我们
+      url: 'javascript:'
+      logo: https://res.bioit.top/logos/q/qrcode.png
+      description: 微信公众号：BioIT 爱好者！
+  - term: 常用推荐
+    links:
+    - title: 语雀
+      url: https://www.yuque.com/
+      logo: https://res.bioit.top/logos/y/yuque.webp
+      description: 专业的云端知识库。
+    - title: 文心一言
+      url: https://yiyan.baidu.com/
+      logo: https://res.bioit.top/logos/y/yiyan-baidu-com.webp
+      description: yiyan.baidu.com
+    - title: ChatGPT
+      url: https://chat.openai.com/
+      logo: https://res.bioit.top/logos/c/chatgpt.webp
+      description: chat.openai.com
+    - title: 豆包 AI
+      url: https://www.doubao.com/chat/
+      logo: https://lf3-static.bytednsdoc.com/obj/eden-cn/pipieh7nupabozps/doubao/doubao-icon.png
+      description: 字节跳动的智能 AI 助手。
+    - title: 通义千问
+      url: https://www.qianwen.com/
+      logo: https://img.alicdn.com/imgextra/i4/O1CN01T0R2R81V3hYc4Q0bH_!!6000000002603-2-tps-128-128.png
+      description: 阿里巴巴的大模型。
+    - title: ChatHub
+      url: https://app.chathub.gg/
+      logo: https://chathub.gg/icon.png
+      description: 在一个应用中使用所有主流 AI 模型。
+    - title: 我的导航
+      url: https://cold-rivers-snow.github.io/nav1/#/
+      logo: github.png
+      description: 个人备用导航站。
 - taxonomy: 科研办公
   icon: fas fa-graduation-cap fa-lg
   list:

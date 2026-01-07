@@ -1,0 +1,227 @@
+================================================================================
+WebStack.yml 整理和去重报告
+================================================================================
+
+📊 统计信息:
+  - 原始链接总数: 2310
+  - 清理后链接数: 2268
+  - 去除重复数量: 42
+  - 去重率: 1.82%
+
+🔍 发现的重复链接 (42 个):
+--------------------------------------------------------------------------------
+
+位置: Design > Design
+  ❌ 千库网
+     URL: http://588ku.com
+     首次出现: 素材资源 > 平面素材
+
+  ❌ 稿定设计
+     URL: https://www.gaoding.com
+     首次出现: 开发设计 > 在线工具
+
+  ❌ iconfont
+     URL: http://www.iconfont.cn
+     首次出现: 素材资源 > 图标素材
+
+  ❌ 创客贴
+     URL: https://www.chuangkit.com
+     首次出现: 实用工具 > 设计相关
+
+  ❌ 鹿班
+     URL: https://luban.aliyun.com
+     首次出现: 实用工具 > 设计相关
+
+
+位置: Golang > 工具
+  ❌ nuclei
+     URL: https://play.golang.org
+     首次出现: Golang > 工具
+
+
+位置: Node.js > 依赖包
+  ❌ Mocha
+     URL: https://mochajs.org
+     首次出现: WEB前端 > JavaScript
+
+  ❌ Jest
+     URL: https://jestjs.io/zh-Hans
+     首次出现: WEB前端 > React
+
+
+位置: Node.js > 生态系统
+  ❌ nodebestpractices
+     URL: https://github.com/goldbergyoni/nodebestpractices
+     首次出现: Node.js > 生态系统
+
+
+位置: WEB前端 > Angular
+  ❌ material
+     URL: https://www.primefaces.org/primeng/#/button
+     首次出现: WEB前端 > Angular
+
+  ❌ material
+     URL: https://www.primefaces.org/primeng/#/button
+     首次出现: WEB前端 > Angular
+
+
+位置: WEB前端 > CSS
+  ❌ iconfont
+     URL: http://www.iconfont.cn
+     首次出现: 素材资源 > 图标素材
+
+  ❌ ionicons
+     URL: https://ionicons.com
+     首次出现: 素材资源 > 图标素材
+
+
+位置: WEB前端 > React
+  ❌ React Helmet
+     URL: https://github.com/nfl/react-helmet
+     首次出现: WEB前端 > React
+
+
+位置: WEB前端 > Vue.js
+  ❌ Vue SSR
+     URL: https://vuepress.vuejs.org/zh
+     首次出现: WEB前端 > Vue.js
+
+
+位置: WEB前端 > 工具
+  ❌ Grabient
+     URL: https://www.grabient.com
+     首次出现: 开发设计 > 在线配色
+
+  ❌ JSON在线解析及格式化验证
+     URL: https://www.json.cn
+     首次出现: 开发设计 > 浏览器书签
+
+  ❌ FunDebug
+     URL: https://www.fundebug.com
+     首次出现: 实用工具 > 开发相关
+
+  ❌ jsfiddle
+     URL: http://jsfiddle.net
+     首次出现: 实用工具 > 开发相关
+
+
+位置: 博客看点 > 博客看点
+  ❌ 腾讯IMWeb
+     URL: https://imweb.io/topic/tab/all
+     首次出现: 社区站点 > 社区站点
+
+  ❌ 阮一峰的网络日志
+     URL: http://www.ruanyifeng.com/blog
+     首次出现: 资讯学习 > 博客论坛
+
+
+位置: 学无止境 > 教程相关
+  ❌ 慕课网
+     URL: https://www.imooc.com
+     首次出现: 资讯学习 > 视频教程
+
+
+位置: 实用工具 > mTab推荐
+  ❌ 豆包
+     URL: https://www.doubao.com/chat/
+     首次出现: 常用推荐 > 常用推荐
+
+
+位置: 实用工具 > 其他
+  ❌ TinyPNG
+     URL: https://tinypng.com
+     首次出现: 开发设计 > 在线工具
+
+  ❌ 360查字体
+     URL: https://fonts.safe.360.cn
+     首次出现: 素材资源 > 浏览器书签
+
+
+位置: 实用工具 > 子幽推荐
+  ❌ QQ邮箱
+     URL: https://mail.qq.com
+     首次出现: 常用推荐
+
+  ❌ 百度网盘
+     URL: https://pan.baidu.com
+     首次出现: 素材资源 > 网盘资源
+
+  ❌ 优酷
+     URL: https://www.youku.com
+     首次出现: 悠闲娱乐 > 影音视频
+
+
+位置: 实用工具 > 影视/音乐
+  ❌ 哔哩哔哩
+     URL: https://www.bilibili.com
+     首次出现: 悠闲娱乐 > 影音视频
+
+  ❌ 爱奇艺
+     URL: https://www.iqiyi.com
+     首次出现: 悠闲娱乐 > 影音视频
+
+
+位置: 实用工具 > 设计相关
+  ❌ ProcessOn
+     URL: https://www.processon.com
+     首次出现: 科研办公 > 办公学习
+
+
+位置: 教育学习 > 周刊杂志
+  ❌ 生信爱好者周刊
+     URL: https://openbiox.github.io/weekly/
+     首次出现: 科研办公 > 生物信息
+
+
+位置: 生活专区 > 出行
+  ❌ 马蜂窝
+     URL: https://www.mafengwo.cn
+     首次出现: 资讯学习 > 浏览器书签
+
+
+位置: 生活专区 > 购物
+  ❌ 京东
+     URL: http://jd.com
+     首次出现: 实用工具 > mTab推荐
+
+
+位置: 社交资讯 > 新闻资讯
+  ❌ 微博
+     URL: https://weibo.com
+     首次出现: 实用工具 > 子幽推荐
+
+
+位置: 社区站点 > 社区站点
+  ❌ V2EX
+     URL: https://www.v2ex.com
+     首次出现: 常用推荐
+
+  ❌ 知乎
+     URL: https://www.zhihu.com
+     首次出现: 常用推荐
+
+  ❌ Hacker News
+     URL: https://news.ycombinator.com
+     首次出现: 资讯学习 > 博客论坛
+
+  ❌ Github
+     URL: https://github.com
+     首次出现: 常用推荐
+
+
+位置: 素材资源 > 浏览器书签
+  ❌ 阿里巴巴矢量图标库
+     URL: https://www.iconfont.cn/
+     首次出现: 素材资源 > 图标素材
+
+  ❌ Pexels图片素材库
+     URL: http://www.pexels.com/
+     首次出现: 素材资源 > 浏览器书签
+
+
+位置: 网络安全 > 网络安全
+  ❌ cmd5
+     URL: https://www.cmd5.com
+     首次出现: 实用工具 > 开发相关
+
+================================================================================
