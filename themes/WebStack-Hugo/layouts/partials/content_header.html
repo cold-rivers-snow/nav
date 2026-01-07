@@ -25,20 +25,20 @@
                         </div>
 
                         <ul class="navbar-nav site-menu" style="margin-right: 16px;">
-                        {{ range .Site.Data.headers }}
-			<li {{ if .list }}class="menu-item-has-children"{{ end }}>
-				<a href="{{ .link }}">
+                            {{ range .Site.Data.headers }}
+                            <li {{ if .list }}class="menu-item-has-children" {{ end }}>
+                                <a href="{{ .link }}">
                                     <i class="{{ .icon }} fa-lg mr-2"></i>
                                     <span>{{ .item }}</span>
                                 </a>
-				<ul class="sub-menu">
-				{{ range .list }}
-				    <li><a href="{{ .url }}">{{ .name }}</a></li>
-				{{ end }}
-				</ul>
-			    </li>
-			{{ end }}
-			</ul>
+                                <ul class="sub-menu">
+                                    {{ range .list }}
+                                    <li><a href="{{ .url }}">{{ .name }}</a></li>
+                                    {{ end }}
+                                </ul>
+                            </li>
+                            {{ end }}
+                        </ul>
 
                         {{ if not (eq $.Site.Params.qweather.key "") }}
                         <div class="rounded-circle weather">
@@ -66,12 +66,23 @@
                                     }
                                 }
                             </script>
-                            <script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
+                            <script
+                                src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script>
                         </div>
                         {{ end }}
                     </div>
 
                     <ul class="nav navbar-menu text-xs order-1 order-md-2">
+                        <!-- 站内搜索 -->
+                        <li class="nav-item mr-3 d-none d-md-block">
+                            <div class="site-search-container">
+                                <input type="text" id="site-search-input" class="form-control" placeholder="🔍 站内搜索..."
+                                    autocomplete="off">
+                                <i class="iconfont icon-search site-search-icon"></i>
+                                <i class="iconfont icon-close site-search-clear" style="display:none;"></i>
+                            </div>
+                        </li>
+                        <!-- 站内搜索 end -->
                         <!-- 一言 -->
                         {{ with .Site.Params.yiyan }}
                         <li class="nav-item mr-3 mr-lg-0 d-none d-lg-block">
@@ -79,12 +90,12 @@
                                 fetch('https://v1.hitokoto.cn')
                                     .then(response => response.json())
                                     .then(data => {
-                                    const hitokoto = document.getElementById('hitokoto_text')
-                                    hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
-                                    hitokoto.innerText = data.hitokoto
+                                        const hitokoto = document.getElementById('hitokoto_text')
+                                        hitokoto.href = 'https://hitokoto.cn/?uuid=' + data.uuid
+                                        hitokoto.innerText = data.hitokoto
                                     })
                                     .catch(console.error)
-                            </script>                           
+                            </script>
                             <div id="hitokoto"><a href="#" target="_blank" id="hitokoto_text">疏影横斜水清浅，暗香浮动月黄昏。</a></div>
                         </li>
                         {{ end }}
@@ -94,8 +105,8 @@
                                     class="iconfont icon-search icon-2x"></i></a>
                         </li-->
                         <li class="nav-item d-md-none mobile-menu ml-3 ml-md-4">
-                            <a href="javascript:" id="sidebar-switch" data-toggle="modal"
-                                data-target="#sidebar"><i class="iconfont icon-classification icon-2x"></i></a>
+                            <a href="javascript:" id="sidebar-switch" data-toggle="modal" data-target="#sidebar"><i
+                                    class="iconfont icon-classification icon-2x"></i></a>
                         </li>
                     </ul>
                 </div>
