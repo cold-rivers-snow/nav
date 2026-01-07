@@ -1,6 +1,11 @@
 - taxonomy: 常用推荐
   icon: fas fa-fire-alt fa-lg
   links:
+  - title: 关注我们
+    logo: 关注.jpg
+    url: https://cold-rivers-snow.github.io
+    qrcode: qrcode.jpg
+    description: 微信公众号：陈言记
   - title: My GitHub
     logo: github.png
     url: https://github.com/cold-rivers-snow
@@ -33,27 +38,7 @@
     logo: v2ex.jpg
     url: https://www.v2ex.com/
     description: V2EX 创意工作者的社区。
-  - title: 关注我们
-    logo: 关注.jpg
-    url: https://cold-rivers-snow.github.io
-    qrcode: qrcode.jpg
-    description: 微信公众号：陈言记
-  - title: 史提芬先森 · 语雀
-    url: https://www.yuque.com/shenweiyan
-    logo: https://res.bioit.top/logos/y/yuque.webp
-    description: 作者的语雀花园主页。
-  - title: Digital-Garden
-    url: https://github.com/shenweiyan/Digital-Garden
-    logo: https://res.bioit.top/logos/k/knowledge-garden.webp
-    description: All in GitHub Discussions.
-  - title: 数字花园
-    url: https://weiyan.cc
-    logo: https://res.bioit.top/logos/o/octocat.png
-    description: 基于 MkDocs Material 站点。
-  - title: BioIT 爱好者
-    url: https://github.com/bioitee
-    logo: https://res.bioit.top/logos/b/bioitee.webp
-    description: BioIT 爱好者主页。
+
   - title: Markdown2Html
     url: https://md.bioitee.com/
     logo: https://res.bioit.top/logos/m/markdown.png
@@ -478,7 +463,7 @@
       url: https://tool.liukuan.cc/wallpaper-new/
       logo: https://liukuan.cc/images/2024/11/23/alSomcZKewNoPQzFafWYOnvOihJgmVTQ.png
       description: null
-  - term: 浏览器书签
+  - term: 设计辅助
     links:
     - title: 无需上传文件也可在线处理图片
       url: https://imagestool.com/zh_CN/
@@ -1018,7 +1003,7 @@
       url: https://pan.xunlei.com
       logo: https://go.mtab.cc/images/2025/05/21/OWGXCcldniSIztkNQdpApAyaZyeWNjYe.png
       description: 拥有强大的下载系统，为用户提供超大的存储空间，支持快速同步上传和下载，还可以边下载边浏览播放，云盘安全由大平台保障，随时方便管理自己的文件，工作、娱乐和日常生活记录都不错！
-  - term: 浏览器书签
+  - term: 技术收藏
     links:
     - title: GitHub Proxy 代理加速
       url: https://ghproxy.com/
@@ -1077,8 +1062,8 @@
       url: http://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html
       logo: ''
       description: '来自: 学习类/cpp'
-    - title: 陈硕-CSDN博客
-      url: https://blog.csdn.net/Solstice?type=blog
+    - title: 陈硕的博客
+      url: https://giantchen.wordpress.com/
       logo: ''
       description: '来自: 学习类/cpp'
     - title: Kubernetes 基础介绍 · abcdocker运维博客 | Kubernetes集群实战文档
@@ -1630,6 +1615,30 @@
       url: https://www.bestblogs.dev/
       logo: https://www.bestblogs.dev/favicon.ico
       description: 优质技术文章聚合。
+    - title: 史提芬先森 · 语雀
+      url: https://www.yuque.com/shenweiyan
+      logo: https://res.bioit.top/logos/y/yuque.webp
+      description: 史提芬先森 ·语雀花园。
+    - title: Digital-Garden
+      url: https://github.com/shenweiyan/Digital-Garden
+      logo: https://res.bioit.top/logos/k/knowledge-garden.webp
+      description: All in GitHub Discussions.
+    - title: 数字花园
+      url: https://weiyan.cc
+      logo: https://res.bioit.top/logos/o/octocat.png
+      description: 基于 MkDocs Material 站点。
+    - title: BioIT 爱好者
+      url: https://github.com/bioitee
+      logo: https://res.bioit.top/logos/b/bioitee.webp
+      description: BioIT 爱好者主页。
+    - title: Hoa.moe
+      url: https://hoa.moe/
+      logo: github.png
+      description: 个人博客
+    - title: Oliver Wu's Blog
+      url: https://oliverwu.top/
+      logo: github.png
+      description: 个人博客
   - term: 设计规范
     links:
     - title: Design Guidelines
@@ -1700,7 +1709,7 @@
       url: http://wyw.dcweb.cn/index.htm
       logo: ''
       description: 古今文字对照查询工具。
-  - term: 浏览器书签
+  - term: 生活指南
     links:
     - title: 哪些网站帮你打开了新世界的大门？ - 知乎
       url: https://www.zhihu.com/question/33889180
@@ -2000,6 +2009,10 @@
       url: https://docsify.js.org
       logo: https://avatars3.githubusercontent.com/u/40133106?s=200&v=4
       description: 一个神奇的文档站点生成器
+    - title: GitHub Daily
+      url: https://githubdaily.com
+      logo: github.png
+      description: GitHub每日精选
     - title: apiDoc
       url: http://apidocjs.com
       logo: https://avatars2.githubusercontent.com/u/4103663?s=200&v=4
@@ -2636,7 +2649,7 @@
       url: https://uiverse.io/
       logo: https://go.mtab.cc/images/2022/12/22/56533ce4b37ca1b05265e90d691815f1.png
       description: 共享和使用由 HTML 和 CSS 制作的精美自定义元素。
-  - term: 浏览器书签
+  - term: 杂项工具
     links:
     - title: PPT模板_PPT模版免费下载_免费PPT模板下载 -【第一PPT】
       url: https://www.1ppt.com/
@@ -8236,7 +8249,7 @@
       url: https://jimeng.jianying.com/
       logo: https://lf3-lv-buz.vlabstatic.com/obj/image-lvweb-buz/common/images/dreamina-v5.ico
       description: 即梦AI一站式智能创作平台，即刻造梦。提供AI绘画和AIGC视频创作体验，拥有激发无限创作灵感的社区。让即梦AI开启您的智能创作之旅，探索梦境实现的无限可能！
-  - term: 浏览器书签
+  - term: 视频收藏
     links:
     - title: OnlineConvertFree软件是在线免费转换软件， 能转换各种文件、视频、音频和照片等。
       url: https://onlineconvertfree.com/zh/
@@ -8337,7 +8350,7 @@
       url: https://www.mtab.cc
       logo: https://go.mtab.cc/images/2024/05/04/6c33635aedbc1acefc199cfe43eb8908.png
       description: 简洁却强大的导航利器。快速添加喜爱网站至书签，集成实用插件，数据跨设备同步备份，让收藏无处不在。
-  - term: 浏览器书签
+  - term: 办公资源
     links:
     - title: 文档中心 - 《TiDB v7.1 中文文档》 - 书栈网 · BookStack
       url: https://www.bookstack.cn/read/tidb-7.1-zh/81e32109a75474e7.md
@@ -8530,7 +8543,7 @@
 - taxonomy: 其他收藏
   icon: fas fa-bookmark
   list:
-  - term: 浏览器书签
+  - term: 未分类
     links:
     - title: Apple
       url: https://www.apple.com.cn
@@ -9046,242 +9059,10 @@
       url: https://www.lagou.com/wn/
       logo: ''
       description: '来自: 招聘'
-    - title: 10pb Grafana
-      url: http://10.251.11.39:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 12.6 苏州loki
-      url: http://10.224.244.2:32045/explore?orgId=1&left=%5B%221640602800000%22,%221640613599000%22,%22Loki%22,%7B%22exemplar%22:true,%22expr%22:%22%7Bproc%3D%5C%22radosgw%5C%22%7D%20%7C%3D%20%5C%22lifetest27%5C%22%22%7D%5D
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 12.6 汾湖 loki
-      url: http://10.226.134.1:32045/explore?orgId=1&left=%5B%221640602800000%22,%221640613659000%22,%22Loki%22,%7B%22exemplar%22:true,%22expr%22:%22%7Bproc%3D%5C%22ceph-osd%5C%22%7D%20%7C%3D%5C%223abfceac-3ff9-431c-93eb-137f1e489f2b.935503.1%5C%22%22%7D%5D
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 12.6 无锡loki
-      url: http://10.234.112.1:32045/explore?orgId=1&left=%5B%22now-3h%22,%22now%22,%22Loki%22,%7B%22expr%22:%22%7Bproc%3D%5C%22ceph-osd%5C%22%7D%20%7C%3D%20%5C%229937539c-aa41-40c4-aaef-340049131033.431083.71247%5C%22%22%7D%5D
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 南基loki
-      url: http://10.240.27.31:32045/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 凤凰
-      url: http://10.240.27.26:32045/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 东莞loki
-      url: http://10.228.222.31:32045/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 12.1无锡loki
-      url: http://10.234.66.72:32045/
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 研发区ClickHouse - Grafana
-      url: http://100.76.6.134:30080/grafana/explore?orgId=1&left=%5B%22now-1h%22,%22now%22,%22ClickHouse%22,%7B%22refId%22:%22A%22,%22instant%22:true,%22range%22:true,%22exemplar%22:true%7D%5D
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 测试部无锡测试域Home - Grafana
-      url: http://10.253.171.203:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 宁波1
-      url: http://10.194.151.70:30080/grafana/login
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Grafana  郑州
-      url: http://10.180.151.50:30080/grafana/login
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: ningbo2 loki
-      url: http://10.194.152.71:30080/grafana/explore?orgId=1&left=%5B%221660816800000%22,%221660820399000%22,%22Loki_NB2%22,%7B%22expr%22:%22%7Bproc%3D%5C%22ceph-osd%5C%22%7D%22,%22refId%22:%22A%22,%22range%22:true%7D%5D
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 10.2 - Grafana
-      url: http://10.253.171.203:32045/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Grafana 无锡 500p
-      url: http://10.213.153.46:30080/grafana/login
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Grafana 苏州500p
-      url: http://10.248.137.74:30080/grafana/login
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Grafana 汾湖 500P
-      url: http://10.226.127.74:30080/grafana/login
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Home - Grafana 重庆15.7
-      url: http://10.50.92.1:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Home - Grafana  uat 12.6
-      url: http://10.224.244.1:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Grafana   水果云郑州
-      url: http://10.180.151.60:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Home - Grafana  苏州11.4
-      url: http://10.224.177.26:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Explore - ClickHouse-1-Log_SZ - Grafana
-      url: http://10.248.135.2:30080/grafana/explore?orgId=1&left=%5B%221681268400000%22,%221681271999000%22,%22ClickHouse-1-Log_SZ%22,%7B%22refId%22:%22A%22,%22queryType%22:%22builder%22,%22rawSql%22:%22SELECT%20*%20FROM%20eos_4_region.accesser_access_log_business_all%20WHERE%20%20%20(%20bucket%20LIKE%20%27%25bucket-objectput10%25%27%20)%20AND%20(%20process_start_time%20%20%3E%3D%20$__fromTime%20AND%20process_start_time%20%3C%3D%20$__toTime%20)%20LIMIT%201000%22,%22builderOptions%22:%7B%22mode%22:%22list%22,%22fields%22:%5B%22*%22%5D,%22limit%22:1000,%22database%22:%22eos_4_region%22,%22table%22:%22accesser_access_log_business_all%22,%22filters%22:%5B%7B%22filterType%22:%22custom%22,%22key%22:%22bucket%22,%22type%22:%22String%22,%22condition%22:%22AND%22,%22operator%22:%22LIKE%22,%22value%22:%22bucket-objectput10%22%7D,%7B%22filterType%22:%22custom%22,%22key%22:%22process_start_time%22,%22type%22:%22DateTime(%27UTC%27)%22,%22condition%22:%22AND%22,%22operator%22:%22WITH%20IN%20DASHBOARD%20TIME%20RANGE%22,%22value%22:%22TODAY%22%7D%5D,%22orderBy%22:%5B%5D%7D,%22format%22:1%7D%5D
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 200pb suzhou Grafana
-      url: http://10.253.171.167:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Grafana 苏州 10pb
-      url: http://10.251.240.39:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Grafana  10pb fenhu
-      url: http://10.151.6.39:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 10pb arm Grafana
-      url: http://10.151.10.15:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Home - Grafana  呼和浩特 16.1
-      url: http://10.70.166.1:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: COSBench Controller  wuxi 10pb
-      url: http://10.251.11.40:19088/controller/index.html
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: Grafana 10pb wuxi
-      url: http://10.251.11.40:30080/grafana/?orgId=1
-      logo: ''
-      description: '来自: 公司网站/loki'
-    - title: 面板 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/#all-updates
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 中移（苏州）软件技术有限公司统一门户
-      url: http://cmsoft.cmss.cmcc/portal/#/sidebar/index
-      logo: ''
-      description: '来自: 公司网站'
-    - title: Projects · Dashboard · GitLab
-      url: http://gitlab.cmss.com/
-      logo: ''
-      description: '来自: 公司网站'
-    - title: My Reviews · Gerrit Code Review
-      url: http://gerrit.cmss.com/dashboard/self
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 'BC-SDS - Revision 6337: /product/BC-oNest'
-      url: http://svn.cmss.com/svn/BC-SDS/product/BC-oNest/
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 10.10.10.2/portal/login?t=1623374981.586148&
-      url: http://10.10.10.2/portal/login?t=1623374981.586148&
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 研发管理规制（管理办法、实施细则等） - IaaS产品部 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/pages/viewpage.action?pageId=86237627
-      logo: ''
-      description: '来自: 公司网站'
-    - title: gerrit.cmss Code Review
-      url: http://gerrit.cmss.com/#/c/oNest/onest/+/3263831/1/src/rgw/rgw_dynamodb.cc
-      logo: ''
-      description: '来自: 公司网站'
-    - title: Install HP RGS
-      url: file:///C:/Program%20Files/HP/HPRGS/HP%20Remote%20Graphics%20Software.pdf
-      logo: ''
-      description: '来自: 公司网站'
-    - title: My Reviews | gerrit.cmss Code Review
-      url: http://gerrit.cmss.com/#/dashboard/self
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 'BC-SDS - Revision 6848: /product/BC-SDS'
-      url: http://svn.cmss.com/svn/BC-SDS/product/BC-SDS/
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 科研管理平台
-      url: http://keji.hq.cmcc/
-      logo: ''
-      description: '来自: 公司网站'
-    - title: linux/accesser · Gerrit Code Review
-      url: http://gerrit.cmss.com/admin/repos/linux/accesser
-      logo: ''
-      description: '来自: 公司网站'
-    - title: System Dashboard - 中移软件任务跟踪系统-JIRA
-      url: http://jira.cmss.com/secure/Dashboard.jspa
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 面板 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/index.action#all-updates
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 页面 - OSG 对象存储产品组 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/display/OSG
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 发票管理
-      url: http://100.71.7.60:30080/
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 云空间
-      url: https://www.ecpan.cn/
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 登录|智维平台
-      url: http://ccops-paas.cmecloud.cn/login/
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 12.6对象存储规划方案v1.13（调整苏州公网地址和策略）
-      url: https://docs.qq.com/sheet/DV01ZVlNMVWlqV2lL?tab=tq9yph&_t=1635745084963@
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 移动云测试平台
-      url: http://utp.cmss.com/dashboard
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 移动云4A管控平台-云阙
-      url: https://10.174.76.181:8081/iga/login_sy.html
-      logo: ''
-      description: '来自: 公司网站'
-    - title: CI Lint · EOS / accesser / accesser-src · GitLab
-      url: http://gitlab.cmss.com/eos/accesser/accesser-src/-/ci/lint
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 欢迎来到OSG对象存储产品组 ;-) - OSG 对象存储产品组 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/pages/viewpage.action?pageId=142459489
-      logo: ''
-      description: '来自: 公司网站'
-    - title: Harbor
-      url: http://100.71.8.124/harbor/projects
-      logo: ''
-      description: '来自: 公司网站'
-    - title: Harbor 125
-      url: http://100.71.8.125/harbor/projects/43/repositories
-      logo: ''
-      description: '来自: 公司网站'
-    - title: Harbor
-      url: http://100.71.8.120/harbor/sign-in?redirect_url=%2Fharbor%2Fprojects
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 草帽云
-      url: http://10.160.22.20:31114/login
-      logo: ''
-      description: '来自: 公司网站'
-    - title: 客户端检查
-      url: https://112.25.65.61:52227/sdp/theme/check_client.html
-      logo: ''
-      description: '来自: 公司网站'
 - taxonomy: AI工具
   icon: fas fa-robot
   list:
-  - term: 浏览器书签
+  - term: AI资源
     links:
     - title: 百度百科
       url: https://baike.baidu.com
