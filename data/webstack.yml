@@ -79,6 +79,10 @@
     url: https://cold-rivers-snow.github.io/nav1/#/
     logo: github.png
     description: 个人备用导航站。
+  - title: 开源仓库网址
+    url: https://inferri.com/
+    logo: github.png
+    description: 开源项目导航站。
 - taxonomy: 科研办公
   icon: fas fa-graduation-cap fa-lg
   list:
