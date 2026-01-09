@@ -10,6 +10,10 @@
     logo: github.png
     url: https://github.com/cold-rivers-snow
     description: My GitHub Profile
+  - title: 寒江雪的语雀
+    url: https://www.yuque.com/yuqueyonghubagqqp
+    logo: https://res.bioit.top/logos/y/yuque.webp
+    description: 个人语雀主页。
   - title: QQ 邮箱
     logo: qq邮箱.png
     url: http://mail.qq.com/
@@ -1577,6 +1581,10 @@
       url: https://awesome-programming-books.github.io/
       logo: github.png
       description: 优秀的编程书籍资源汇集。
+    - title: 极客课程大全
+      url: https://uaxe.github.io/geektime-docs
+      logo: https://static001.geekbang.org/static/time/img/geek_elements/logo-wap.png
+      description: 极客课程资源汇集。
   - term: 博客论坛
     links:
     - title: Inoreader
@@ -1601,6 +1609,10 @@
       description: 酷 壳 – CoolShell。
     - title: 数字花园主题
       url: https://weiyan.cc/topic/
+      logo: https://res.bioit.top/logos/o/octocat.png
+      description: Weiyan 的数字花园主题探索。
+    - title: 数字花园主题
+      url: https://shenwy.com
       logo: https://res.bioit.top/logos/o/octocat.png
       description: Weiyan 的数字花园主题探索。
     - title: xxyopen
