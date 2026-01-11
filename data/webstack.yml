@@ -42,7 +42,6 @@
     logo: v2ex.jpg
     url: https://www.v2ex.com/
     description: V2EX 创意工作者的社区。
-
   - title: Markdown2Html
     url: https://md.bioitee.com/
     logo: https://res.bioit.top/logos/m/markdown.png
@@ -87,6 +86,10 @@
     url: https://inferri.com/
     logo: github.png
     description: 开源项目导航站。
+  - title: 学习资料网址
+    url: https://www.showmeai.tech
+    logo: github.png
+    description: 学习资源网站站。
 - taxonomy: 科研办公
   icon: fas fa-graduation-cap fa-lg
   list:
