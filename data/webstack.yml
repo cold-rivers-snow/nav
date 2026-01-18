@@ -5859,6 +5859,154 @@
       url: https://developer.chrome.com/extensions
       logo: https://www.google.com/images/icons/product/chrome-32.png
       description: 谷歌浏览器扩展插件开发文档
+    - title: 后端开发 awesome
+      url: https://github.com/xingshaocheng/architect-awesome
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: 后端开发列表
+    - title: go 开发 awesome
+      url: https://github.com/avelino/awesome-go
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: go 开发列表
+    - title: go 开源项目 awesome
+      url: https://github.com/hackstoic/golang-open-source-projects
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: go 开源项目列表
+    - title: rust 开发 awesome
+      url: https://github.com/rust-unofficial/awesome-rust
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: rust 开发列表
+    - title: 机器学习开发 awesome
+      url: https://github.com/josephmisiti/awesome-machine-learning
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: 机器学习开发列表
+    - title: mac 使用 awesome
+      url: https://github.com/jaywcjlove/awesome-mac
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: mac 使用列表
+    - title: mac 使用 awesome2
+      url: https://github.com/iCHAIT/awesome-macOS
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: mac 使用列表2
+    - title: cpp 开发 awesome
+      url: https://github.com/fffaraz/awesome-cpp
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: cpp 开发列表
+    - title: cpp-cn 开发 awesome
+      url: https://github.com/jobbole/awesome-cpp-cn
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: cpp-cn 开发列表
+    - title: modern cpp 开发 awesome
+      url: https://github.com/rigtorp/awesome-modern-cpp
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: modern cpp 开发列表
+    - title: docker compose awesome
+      url: https://github.com/docker/awesome-compose
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: docker compose 列表
+    - title: k8s awesome
+      url: https://github.com/ramitsurana/awesome-kubernetes
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: k8s 列表
+    - title: remote job awesome
+      url: https://github.com/lukasz-madon/awesome-remote-job
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: remote job 列表
+    - title: shell 开发 awesome
+      url: https://github.com/alebcay/awesome-shell
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: shell 开发列表
+    - title: java-cn 开发 awesome
+      url: https://github.com/jobbole/awesome-java-cn
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: java-cn 开发列表
+    - title: java 开发 awesome
+      url: https://github.com/sorenduan/awesome-java-books
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: java 开发列表
+    - title: books awesome
+      url: https://github.com/linsa-io/books
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: books 列表
+    - title: books awesome2
+      url: https://github.com/guanpengchn/awesome-books
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: books 列表2
+    - title: cs books awesome
+      url: https://github.com/imarvinle/awesome-cs-books
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: cs books 列表
+    - title: programming books awesome
+      url: https://github.com/jobbole/awesome-programming-books
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: programming books 列表
+    - title: programming books awesome2
+      url: https://github.com/royeo/awesome-programming-books
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: programming books 列表2
+    - title: english books awesome
+      url: https://github.com/hehonghui/awesome-english-ebooks
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: english books 列表
+    - title: leetcode awesome
+      url: https://github.com/ashishps1/awesome-leetcode-resources
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: leetcode 列表
+    - title: vscode awesome
+      url: https://github.com/viatsko/awesome-vscode
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: vscode 列表
+    - title: ai agents awesome
+      url: https://github.com/e2b-dev/awesome-ai-agents
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: ai agents 列表
+    - title: architecture awesome
+      url: https://github.com/toutiaoio/awesome-architecture
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: architecture 列表
+    - title: awesome awesome
+      url: https://github.com/emijrp/awesome-awesome
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: awesome 列表
+    - title: awesome awesome awesome
+      url: https://github.com/t3chnoboy/awesome-awesome-awesome
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: awesome awesome 列表
+    - title: awesome
+      url: https://github.com/craftcms/awesome
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: awesome 列表
+    - title: neovim awesome
+      url: https://github.com/rockerBOO/awesome-neovim
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: neovim 列表
+    - title: chinese-nlp awesome
+      url: https://github.com/crownpku/Awesome-Chinese-NLP
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: chinese-nlp 列表
+    - title: c awesome
+      url: https://github.com/oz123/awesome-c
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: c 列表
+    - title: c-cn awesome
+      url: https://github.com/jobbole/awesome-c-cn
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: c-cn 列表
+    - title: GitHub-Repo awesome
+      url: https://github.com/Wechat-ggGitHub/Awesome-GitHub-Repo
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: GitHub-Repo 列表
+    - title: cli awesome
+      url: https://github.com/agarrharr/awesome-cli-apps
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: cli 列表
+    - title: llm awesome
+      url: https://github.com/Shubhamsaboo/awesome-llm-apps
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: llm 列表
+    - title: funNLP awesome
+      url: https://github.com/fighting41love/funNLP
+      logo: https://www.google.com/images/icons/product/chrome-32.png
+      description: funNLP 列表
   - term: 教程相关
     links:
     - title: 菜鸟教程
