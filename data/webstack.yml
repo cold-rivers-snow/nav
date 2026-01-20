@@ -7773,6 +7773,10 @@
       logo: https://p-pc-weboff.byteimg.com/tos-cn-i-9r5gewecjs/favicon.png
       description: 记录美好生活
     - title: YouTube短视频
+      url: https://www.yewtube.com/
+      logo: https://www.youtube.com/s/desktop/9521d18f/img/logos/favicon.ico
+      description: 在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。
+    - title: YouTube短视频
       url: https://www.youtube.com/shorts
       logo: https://www.youtube.com/s/desktop/9521d18f/img/logos/favicon.ico
       description: 在 YouTube 上畅享你喜爱的视频和音乐，上传原创内容并与亲朋好友和全世界观众分享你的视频。
