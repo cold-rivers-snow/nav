@@ -90,6 +90,10 @@
     url: https://www.showmeai.tech
     logo: github.png
     description: 学习资源网站站。
+  - title: ai 擂台网站
+    url: https://arena.ai/zh
+    logo: github.png
+    description: ai 模型擂台测试网站。
 - taxonomy: 科研办公
   icon: fas fa-graduation-cap fa-lg
   list:
@@ -1110,7 +1114,7 @@
       logo: ''
       description: '来自: 学习类/博客'
     - title: coolshell.cn
-      url: https://coolshell.cn/articles/1870.html
+      url: https://coolshell.cn/
       logo: ''
       description: '来自: 学习类/博客'
     - title: 酷壳(coolshell.cn)镜像站
@@ -6362,6 +6366,14 @@
       url: https://vadimdemedes.com
       logo: https://vadimdemedes.com/favicon.ico
       description: 应用程序和开源项目的开发者
+    - title: zhaoolee's website
+      url: https://zhaoolee.com/
+      logo: https://zhaoolee.com/favicon.ico
+      description: zhaoolee's website
+    - title: zhaoolee's rss
+      url: https://zhaoolee.com/garss
+      logo: https://zhaoolee.com/favicon.ico
+      description: zhaoolee's rss
     - title: 我的小屋-让代码遇见更好的自己
       url: http://www.hello123.com
       logo: http://www.hello123.com/img/favicon.ico
