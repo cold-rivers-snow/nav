@@ -94,6 +94,10 @@
     url: https://arena.ai/zh
     logo: github.png
     description: ai 模型擂台测试网站。
+  - title: 考公必备网站
+    url: https://saduck.top
+    logo: https://www.kdocs.cn/l/cdjUhvaZSKUv
+    description: 考公必备网站。
 - taxonomy: 科研办公
   icon: fas fa-graduation-cap fa-lg
   list:
