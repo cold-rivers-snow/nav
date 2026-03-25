@@ -25,13 +25,11 @@ jobs:
       - name: Build Site
         run: hugo --minify
 
-      - name: Upload artifact
-        # 升级至 v3，解决 deprecated 问题
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy Pages
+        uses: peaceiris/actions-gh-pages@v3
         with:
-          path: ./deploy_out/
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        # 升级至 v4，这是最新的部署组件
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
+          publish_branch: gh-pages
+          force_orphan: true
+          full_commit_message: ${{ github.event.head_commit.message }}
