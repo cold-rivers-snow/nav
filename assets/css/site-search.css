@@ -1,0 +1,242 @@
+/**
+ * 站内搜索样式
+ */
+
+/* 搜索容器 */
+.site-search-container {
+    position: relative;
+    display: inline-block;
+    margin-right: 15px;
+    width: 300px;
+}
+
+.site-search-container #site-search-input {
+    width: 100%;
+    padding-right: 60px;
+    padding-left: 35px;
+    height: 38px;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    transition: all 0.3s ease;
+}
+
+.site-search-container #site-search-input:focus {
+    outline: none;
+    border-color: #5e72e4;
+    box-shadow: 0 0 0 3px rgba(94, 114, 228, 0.1);
+}
+
+.site-search-icon {
+    position: absolute;
+    left: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #999;
+    pointer-events: none;
+}
+
+.site-search-clear {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #999;
+    cursor: pointer;
+    transition: color 0.2s;
+}
+
+.site-search-clear:hover {
+    color: #333;
+}
+
+/* 搜索下拉框 */
+.site-search-dropdown {
+    display: none;
+    position: fixed;
+    top: 60px;
+    right: 20px;
+    width: 500px;
+    max-height: 600px;
+    overflow-y: auto;
+    background: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+    z-index: 9999;
+    animation: slideDown 0.3s ease;
+}
+
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+.search-results-list {
+    padding: 8px 0;
+}
+
+.search-result-item {
+    display: flex;
+    align-items: flex-start;
+    padding: 12px 16px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+    border-bottom: 1px solid #f0f0f0;
+}
+
+.search-result-item:last-child {
+    border-bottom: none;
+}
+
+.search-result-item:hover {
+    background-color: #f8f9fa;
+}
+
+.search-result-icon {
+    flex-shrink: 0;
+    width: 32px;
+    height: 32px;
+    margin-right: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.search-result-icon img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
+
+.search-result-icon i {
+    font-size: 18px;
+    color: #999;
+}
+
+.search-result-content {
+    flex: 1;
+    min-width: 0;
+}
+
+.search-result-title {
+    font-size: 14px;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.search-result-desc {
+    font-size: 12px;
+    color: #666;
+    margin-bottom: 4px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.search-result-category {
+    font-size: 11px;
+    color: #999;
+    display: inline-block;
+    padding: 2px 8px;
+    background-color: #f0f0f0;
+    border-radius: 10px;
+}
+
+.search-result-more {
+    padding: 10px 16px;
+    text-align: center;
+    color: #999;
+    font-size: 12px;
+    border-top: 1px solid #f0f0f0;
+}
+
+.search-no-result {
+    padding: 40px 20px;
+    text-align: center;
+    color: #999;
+    font-size: 14px;
+}
+
+/* 高亮关键词 */
+.search-result-title mark,
+.search-result-desc mark {
+    background-color: #fff3cd;
+    color: #856404;
+    padding: 2px 4px;
+    border-radius: 2px;
+    font-weight: 600;
+}
+
+/* 搜索高亮效果 */
+.search-highlight {
+    animation: highlight 0.5s ease;
+    position: relative;
+}
+
+@keyframes highlight {
+    0% {
+        background-color: #fff3cd;
+    }
+    100% {
+        background-color: transparent;
+    }
+}
+
+.search-hidden {
+    display: none !important;
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+    .site-search-container {
+        width: 200px;
+    }
+    
+    .site-search-dropdown {
+        width: calc(100vw - 40px);
+        right: 20px;
+        left: 20px;
+        max-height: 400px;
+    }
+}
+
+@media (max-width: 576px) {
+    .site-search-container {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    
+    .site-search-dropdown {
+        top: 120px;
+    }
+}
+
+/* 滚动条样式 */
+.site-search-dropdown::-webkit-scrollbar {
+    width: 6px;
+}
+
+.site-search-dropdown::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 3px;
+}
+
+.site-search-dropdown::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 3px;
+}
+
+.site-search-dropdown::-webkit-scrollbar-thumb:hover {
+    background: #999;
+}
