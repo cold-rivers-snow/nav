@@ -1670,6 +1670,10 @@
       url: https://oliverwu.top/
       logo: github.png
       description: 个人博客
+    - title: 零度博客
+      url: https://www.freedidi.com
+      logo: github.png
+      description: 零度博客
   - term: 设计规范
     links:
     - title: Design Guidelines
