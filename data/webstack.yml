@@ -102,6 +102,10 @@
     url: https://saduck.top
     logo: https://www.kdocs.cn/l/cdjUhvaZSKUv
     description: 考公必备网站。
+  - title: 资源网站
+    url: https://haisou.cc/
+    logo: github.png
+    description: 云盘搜索网站。
 - taxonomy: 科研办公
   icon: fas fa-graduation-cap fa-lg
   list:
