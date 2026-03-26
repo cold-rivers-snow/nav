@@ -106,6 +106,10 @@
     url: https://haisou.cc/
     logo: github.png
     description: 云盘搜索网站。
+  - title: yupi资源网站
+    url: https://dogyupi.com
+    logo: github.png
+    description: yupi资源网站。
 - taxonomy: 科研办公
   icon: fas fa-graduation-cap fa-lg
   list:
