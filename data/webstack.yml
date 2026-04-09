@@ -42,10 +42,6 @@
     logo: v2ex.jpg
     url: https://www.v2ex.com/
     description: V2EX 创意工作者的社区。
-  - title: Markdown2Html
-    url: https://md.bioitee.com/
-    logo: https://res.bioit.top/logos/m/markdown.png
-    description: 公众号 Markdown 排版利器。
   - title: 飞书消息
     url: https://shenweiyan.feishu.cn/next/messenger
     logo: https://res.bioit.top/logos/l/lark-suite.webp
@@ -830,7 +826,7 @@
       url: https://creative.adobe.com/zh-cn/products/download/muse
       logo: MuseCC.png
       description: 无需利用编码即可进行网站设计。
-    - title: figma
+    - title: figma 画图
       url: https://www.figma.com/
       logo: figma.png
       description: Design, prototype, and gather feedback all in one place with Figma.
@@ -1111,6 +1107,10 @@
       description: '来自: 学习类/博客'
     - title: 文江博客 - 文江的个人博客，平凡的草根站长
       url: https://www.wenjiangs.com/
+      logo: ''
+      description: '来自: 学习类/博客'
+    - title: AI超元域
+      url: https://www.aivi.fyi/
       logo: ''
       description: '来自: 学习类/博客'
     - title: Bean Li
@@ -1559,6 +1559,10 @@
       url: https://github.com/ermaozi/get_subscribe
       logo: ''
       description: '来自: 工具类/vpn'
+    - title: wgetcloud 网络加速
+      url: https://3jkkvi9afjjln2yjwnbc.wgetcloud.org/
+      logo: ''
+      description: '来自: 工具类/vpn'
     - title: 轩辕镜像 - 国内开发者首选的专业 Docker 镜像下载加速服务平台
       url: https://docker.xuanyuan.me/
       logo: ''
@@ -1818,6 +1822,14 @@
       url: https://www.cdstm.cn/
       logo: ''
       description: '来自: 生活、娱乐类/新闻、百科、技能'
+    - title: 环球时报
+      url: https://www.globaltimes.cn/
+      logo: ''
+      description: '来自: 生活、娱乐类/新闻、百科、技能'
+    - title: firstory
+      url: https://open.firstory.me/browse
+      logo: ''
+      description: '来自: 播客'
     - title: '@TEDtoChina | 传播TED资讯，实践TED精神，推动TED中文社区的发展'
       url: http://www.tedtochina.com/
       logo: ''
@@ -9303,6 +9315,10 @@
       url: https://baike.baidu.com
       logo: ''
       description: '来自: 个人收藏'
+    - title: huggingface
+      url: https://huggingface.co/
+      logo: ''
+      description: '来自: AI模型工具'
     - title: Users
       url: https://c.aiguobit.com/users/ucenter
       logo: ''
@@ -9512,6 +9528,14 @@
       url: https://aistudio.google.com/
       logo: ''
       description: '来自: ai'
+    - title: AI antigravity 编辑器
+      url: https://antigravity.google/
+      logo: ''
+      description: '来自: ai'
+    - title: AI design
+      url: https://stitch.withgoogle.com/
+      logo: ''
+      description: '来自: ai'
     - title: Google NotebookLM | AI 研究工具与思考伙伴
       url: https://notebooklm.google/
       logo: ''
@@ -9586,6 +9610,10 @@
       description: '来自: 学习类/博客'
     - title: AI 开发者日报
       url: https://ainews.liduos.com/
+      logo: ''
+      description: '来自: 学习类/博客'
+    - title: fq网站
+      url: https://www.freezq.com/
       logo: ''
       description: '来自: 学习类/博客'
     - title: Wikipedia, the free encyclopedia
@@ -9711,6 +9739,18 @@
       description: '来自: 工具类/工具'
     - title: User::login|倚天剑shadow|clash免费订阅|ShadowsocksR|Hysteria2|Trojan服务器|ss|ssr  需要提醒的是，在中国，私自使用非法定的代理服务器、网络工具等绕过封锁限制访问境外网站或获取网络服务属于违法行为。请遵守国家法律法规，合法使用网络。
       url: https://c.aiguobit.com/users/login
+      logo: ''
+      description: '来自: 工具类/vpn'
+    - title: 免费资源网
+      url: https://free.com.tw/
+      logo: ''
+      description: '来自: 工具类/工具'
+    - title: berryhub
+      url: https://berryhub.org/
+      logo: ''
+      description: '来自: 工具类/vpn'
+    - title: mitce
+      url: https://mitce.net/
       logo: ''
       description: '来自: 工具类/vpn'
     - title: 量子航空
