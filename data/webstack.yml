@@ -66,6 +66,18 @@
     url: https://www.doubao.com/chat/
     logo: https://lf3-static.bytednsdoc.com/obj/eden-cn/pipieh7nupabozps/doubao/doubao-icon.png
     description: 字节跳动的智能 AI 助手。
+  - title: bolt
+    url: https://bolt.new/
+    logo: https://img.alicdn.com/imgextra/i4/O1CN01T0R2R81V3hYc4Q0bH_!!6000000002603-2-tps-128-128.png
+    description: blot 类似于 google 的 ai studio
+  - title: 美团nocode
+    url: https://nocode.cn/
+    logo: https://img.alicdn.com/imgextra/i4/O1CN01T0R2R81V3hYc4Q0bH_!!6000000002603-2-tps-128-128.png
+    description: 美团nocode 类似于 google 的 ai studio
+  - title: miaoda
+    url: https://www.miaoda.cn/
+    logo: https://img.alicdn.com/imgextra/i4/O1CN01T0R2R81V3hYc4Q0bH_!!6000000002603-2-tps-128-128.png
+    description: 百度秒哒 类似于 google 的 ai studio
   - title: 通义千问
     url: https://www.qianwen.com/
     logo: https://img.alicdn.com/imgextra/i4/O1CN01T0R2R81V3hYc4Q0bH_!!6000000002603-2-tps-128-128.png
@@ -2326,6 +2338,10 @@
       url: https://github.com/Dreamacro/clash
       logo: https://github.com/Dreamacro/clash/raw/master/docs/logo.png
       description: Go中基于规则的隧道
+    - title: hiddify
+      url: https://hiddify.com/
+      logo: https://hiddify.com/favicon.ico
+      description: 免费的开源代理工具
   - term: 影视/音乐
     links:
     - title: 哔哩哔哩
@@ -9510,6 +9526,14 @@
       description: '来自: ai'
     - title: Google Gemini
       url: https://gemini.google.com/app/d2ef48ef822b3be7?hl=zh-cn
+      logo: ''
+      description: '来自: ai'
+    - title: Google Gemini Mac 版 app
+      url: https://gemini.google.com/mac/
+      logo: ''
+      description: '来自: ai'
+    - title: Google Gemini windows 版 app
+      url: https://search.google/google-app/desktop/
       logo: ''
       description: '来自: ai'
     - title: v3o6fk.aitianhu1.top
