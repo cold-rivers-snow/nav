@@ -118,6 +118,10 @@
     url: https://dogyupi.com
     logo: github.png
     description: yupi资源网站。
+  - title: wiki 网站
+    url: https://tolkiengateway.net/wiki/Main_Page
+    logo: github.png
+    description: 托尔金维基网站。
 - taxonomy: 科研办公
   icon: fas fa-graduation-cap fa-lg
   list:
@@ -1117,6 +1121,14 @@
       url: https://lvwenhan.com/
       logo: ''
       description: '来自: 学习类/博客'
+    - title: mumong
+      url: https://blog.mumong.cn/
+      logo: ''
+      description: '来自: 学习类/博客'
+    - title: r18
+      url: https://r18.life/
+      logo: ''
+      description: '来自: 学习类/博客'
     - title: 文江博客 - 文江的个人博客，平凡的草根站长
       url: https://www.wenjiangs.com/
       logo: ''
@@ -1854,6 +1866,10 @@
       url: https://www.zhihu.com/?_enter_from=new_home_page
       logo: ''
       description: '来自: 社区'
+    - title: behance
+      url: https://www.behance.net/
+      logo: ''
+      description: '来自: 社区/创作'
     - title: 原创作品 | 豆瓣阅读
       url: https://read.douban.com/
       logo: ''
