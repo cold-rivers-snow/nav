@@ -1048,10 +1048,38 @@
       description: 拥有强大的下载系统，为用户提供超大的存储空间，支持快速同步上传和下载，还可以边下载边浏览播放，云盘安全由大平台保障，随时方便管理自己的文件，工作、娱乐和日常生活记录都不错！
   - term: 技术收藏
     links:
+    - title: Supabase | The Postgres Development Platform.
+      url: https://supabase.com/
+      logo: default.webp
+      description: ''
+    - title: gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+      url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+      logo: default.webp
+      description: ''
+    - title: Resources &amp; Commands
+      url: https://test-github-repo.vercel.app/resources.html
+      logo: default.webp
+      description: ''
+    - title: TTCLOUD
+      url: https://pkweb.tttizi.com/#/register?code=yVKaESmy
+      logo: default.webp
+      description: ''
     - title: GitHub Proxy 代理加速
       url: https://ghproxy.com/
       logo: ''
       description: '来自: work/工具'
+    - title: Awesome-Tools - 程序员实用工具合集
+      url: https://github.com/YSGStudyHards/Awesome-Tools
+      logo: https://github.com/favicon.ico
+      description: 程序员实用工具汇总，涵盖效率、开发、设计等各类工具。
+    - title: ITBlogs - IT技术博客集锦
+      url: https://github.com/csarron/ITBlogs
+      logo: https://github.com/favicon.ico
+      description: 国内外 IT 技术博客资源汇总。
+    - title: Best-websites-a-programmer-should-visit-zh
+      url: https://github.com/tuteng/Best-websites-a-programmer-should-visit-zh
+      logo: https://github.com/favicon.ico
+      description: 程序员应该访问的最佳网站中文版。
     - title: 阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区
       url: https://developer.aliyun.com/mirror/?spm=a2c6h.13651102.0.0.3e221b11bAWwq4&serviceType=ntp
       logo: ''
@@ -1587,6 +1615,14 @@
       url: https://3jkkvi9afjjln2yjwnbc.wgetcloud.org/
       logo: ''
       description: '来自: 工具类/vpn'
+    - title: VPN Gate - 免费公共VPN中继服务器列表
+      url: https://www.vpngate.net/cn/
+      logo: ''
+      description: '来自: 工具类/vpn'
+    - title: 蛋蛋加速 - 网络加速
+      url: https://cn2.ddjs.store/#/register?code=yeIp28D7
+      logo: ''
+      description: '来自: 工具类/vpn'
     - title: 轩辕镜像 - 国内开发者首选的专业 Docker 镜像下载加速服务平台
       url: https://docker.xuanyuan.me/
       logo: ''
@@ -1615,11 +1651,51 @@
       url: https://github.com/megaease
       logo: ''
       description: '来自: 社区'
+    - title: duty9527/stars - GitHub精选项目
+      url: https://github.com/duty9527/stars
+      logo: ''
+      description: '来自: 工具类/github'
+    - title: front-end-collect - 前端资源收集
+      url: https://github.com/foru17/front-end-collect
+      logo: ''
+      description: '来自: 工具类/github'
+    - title: GitHub Discussions - GitHub社区讨论
+      url: https://github.com/features/discussions
+      logo: ''
+      description: '来自: 社区'
 - taxonomy: 资讯学习
   icon: fas fa-book-open fa-lg
   list:
   - term: 资讯书籍
     links:
+    - title: 图书 | Jimmy Song
+      url: https://jimmysong.io/zh/book/
+      logo: default.webp
+      description: rss
+    - title: 通义智文_AI助手_文档阅读_人工智能-阿里云
+      url: https://tongyi.aliyun.com/zhiwen?spm=5176.28326591.0.0.4d0555e3Bf47Vq
+      logo: default.webp
+      description: 阿里
+    - title: AI 写作_天工AI - 搜索更深度，阅读更多彩
+      url: https://www.tiangong.cn/chat/speed_writing/002
+      logo: default.webp
+      description: 写作
+    - title: 通义阅读助手_AI速读超长文档_通义tongyi.ai-通义千问
+      url: https://tongyi.aliyun.com/read
+      logo: default.webp
+      description: 翻译
+    - title: Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。
+      url: https://zh.101ml.su/
+      logo: default.webp
+      description: ''
+    - title: Free Programming Books – GoalKicker.com
+      url: https://goalkicker.com/
+      logo: default.webp
+      description: ''
+    - title: Zeli - 用中文阅读Hacker News和AI论文摘要
+      url: https://zeli.app/zh
+      logo: default.webp
+      description: ''
     - title: 微信读书
       url: https://weread.qq.com/
       logo: 微信读书.jpg
@@ -1636,6 +1712,30 @@
       url: https://uaxe.github.io/geektime-docs
       logo: https://static001.geekbang.org/static/time/img/geek_elements/logo-wap.png
       description: 极客课程资源汇集。
+    - title: 极客时间专栏文章
+      url: https://time.geekbang.org/column/article/109022
+      logo: https://static001.geekbang.org/static/time/img/geek_elements/logo-wap.png
+      description: 极客时间技术专栏文章。
+    - title: 图灵社区
+      url: https://www.ituring.com.cn/
+      logo: https://www.ituring.com.cn/favicon.ico
+      description: 书籍比较全面的图书社区，电子书的价格是纸质书的一半。
+    - title: 博文视点
+      url: http://www.broadview.com.cn/
+      logo: http://www.broadview.com.cn/favicon.ico
+      description: 电子工业出版社旗下IT出版品牌，出版了很多好书。
+    - title: 计算机书籍控
+      url: http://bestcbooks.com/
+      logo: http://bestcbooks.com/favicon.ico
+      description: 计算机书籍资源网站。
+    - title: it熊猫
+      url: https://itpanda.net/book/
+      logo: https://itpanda.net/favicon.ico
+      description: IT电子书资源网站。
+    - title: 电子书宝藏箱
+      url: https://jbiaojerry.github.io/ebook-treasure-chest/
+      logo: https://jbiaojerry.github.io/ebook-treasure-chest/favicon.ico
+      description: 收集各种电子书资源的宝藏箱。
   - term: 博客论坛
     links:
     - title: Inoreader
@@ -1710,6 +1810,118 @@
       url: https://www.freedidi.com
       logo: github.png
       description: 零度博客
+    - title: SitePoint - 编程技术社区
+      url: https://www.sitepoint.com/
+      logo: ''
+      description: Web开发技术学习平台
+    - title: SitePoint Community - 技术论坛
+      url: https://www.sitepoint.com/community/
+      logo: ''
+      description: SitePoint技术社区论坛
+    - title: DZone - 开发者技术社区
+      url: https://dzone.com/
+      logo: ''
+      description: 面向开发者的技术知识分享社区
+    - title: HackerNoon - 技术阅读平台
+      url: https://hackernoon.com/
+      logo: ''
+      description: 技术人员的阅读和写作平台
+    - title: Reddit Programming - 编程板块
+      url: https://www.reddit.com/r/programming/
+      logo: ''
+      description: Reddit编程讨论板块
+    - title: Reddit - 社区聚合平台
+      url: https://www.reddit.com/
+      logo: https://www.redditstatic.com/desktop2x/img/favicon/apple-touch-icon-precomposed.png
+      description: 用户受众更广的 Hacker News，分类非常多的社区聚合平台。
+    - title: AIGC中文社区
+      url: https://www.aigc.cn/
+      logo: ''
+      description: AI生成内容中文社区
+    - title: CocoLoop Hub - AI工具集
+      url: https://hub.cocoloop.cn/
+      logo: ''
+      description: CocoLoop AI工具导航
+    - title: CodeNav - 编程导航
+      url: https://code-nav.top/myblog/home
+      logo: ''
+      description: 编程资源导航网站
+    - title: 宝箱小站 - 资源分享
+      url: https://www.baoboxs.com/
+      logo: ''
+      description: 优质资源分享网站
+    - title: Z-Library - 电子书图书馆
+      url: https://zlibrary.me/
+      logo: ''
+      description: 全球最大的电子书图书馆
+    - title: 卬乐 - 编程教程
+      url: https://www.twle.cn/
+      logo: ''
+      description: 编程开发教程网站
+    - title: 开发者头条
+      url: https://toutiao.io/
+      logo: ''
+      description: 一个程序员分享平台
+    - title: GitChat
+      url: https://gitbook.cn/
+      logo: ''
+      description: 一个技术博客社区
+    - title: Bytes - 开发者社区
+      url: https://bytes.com/
+      logo: ''
+      description: 面向开发人员和IT专业人员的交流社区
+    - title: Google Developers
+      url: https://developers.google.com/
+      logo: ''
+      description: Google 开发者社区
+    - title: Web前端导航
+      url: http://www.alloyteam.com/nav/
+      logo: ''
+      description: 比较全的Web前端导航，包括团队组织、开发社区、前端门户、框架类库等
+    - title: 程序员圈
+      url: https://www.cxyquan.com/
+      logo: ''
+      description: 程序员的圈子
+    - title: Devoxx - YouTube频道
+      url: https://www.youtube.com/user/devoxx
+      logo: ''
+      description: Devoxx 频道，各种很不错的技术分享。
+    - title: Coding Tech - YouTube频道
+      url: https://www.youtube.com/user/codingtech
+      logo: ''
+      description: 非常不错的编程频道，涵盖各种技术。
+    - title: Google Developers - YouTube频道
+      url: https://www.youtube.com/user/GoogleDevelopers
+      logo: ''
+      description: Google 官方频道，包括 Google I/O 大会、教程、新闻、技巧分享。
+    - title: AWS - YouTube频道
+      url: https://www.youtube.com/user/AmazonWebServices
+      logo: ''
+      description: Amazon Web Services 官方频道。
+    - title: MIT OpenCourseWare - YouTube频道
+      url: https://www.youtube.com/user/MIT
+      logo: ''
+      description: MIT 公开课频道。
+    - title: CppCon - YouTube频道
+      url: https://www.youtube.com/user/CppCon
+      logo: ''
+      description: C++ 大会视频，了解 C++ 最新功能和动态。
+    - title: Computerphile - YouTube频道
+      url: https://www.youtube.com/user/Computerphile
+      logo: ''
+      description: 计算机技术科普教程，简单易懂。
+    - title: Numberphile - YouTube频道
+      url: https://www.youtube.com/user/numberphile
+      logo: ''
+      description: 数学科普频道。
+    - title: The New Boston - YouTube频道
+      url: https://www.youtube.com/user/thenewboston
+      logo: ''
+      description: 前端开发工程师必去的地方。
+    - title: Derek Banas - YouTube频道
+      url: https://www.youtube.com/user/derekbanas
+      logo: ''
+      description: 教程型频道，包括编程语言、游戏开发、Web 开发。
   - term: 设计规范
     links:
     - title: Design Guidelines
@@ -1915,6 +2127,14 @@
   list:
   - term: 开发相关
     links:
+    - title: 锤子在线工具网 - 首页
+      url: https://www.toolhelper.cn/
+      logo: default.webp
+      description: 可视化/格式化工具
+    - title: Mermaid 流程图 在线编辑实时渲染流程图 · 流程图 时序图 类图 ER 图 甘特图 | MeTool
+      url: https://metool.online/zh/markdown/mermaid/
+      logo: default.webp
+      description: 可视化/格式化工具
     - title: 发现导航
       url: https://github.com/xjh22222228/nav
       logo: https://gcore.jsdelivr.net/gh/xjh22222228/nav-image@image/logo.svg
@@ -1927,6 +2147,10 @@
       url: https://coveralls.io
       logo: https://coveralls.io/favicon.png
       description: 通过显示测试套件未涵盖代码的哪些部分，我们可以帮助您自信地交付代码。免费提供开源软件库
+    - title: Merge - 统一API集成平台
+      url: https://www.merge.dev/
+      logo: https://www.merge.dev/favicon.ico
+      description: 一个平台即可接入数百个SaaS系统的统一API集成平台。
     - title: Releasly
       url: https://www.releasly.co
       logo: ''
@@ -1939,6 +2163,10 @@
       url: http://supervisord.org
       logo: ''
       description: Supervisor是一个客户端/服务器系统，允许其用户监视和控制类似UNIX的操作系统上的多个进程。
+    - title: Open The Rank
+      url: https://opentherank.com/
+      logo: ''
+      description: 查看网站、SEO与GitHub仓库排名的在线工具。
     - title: SonarQube
       url: https://www.sonarqube.org
       logo: https://www.sonarqube.org/favicon-152.png
@@ -5859,6 +6087,54 @@
       url: https://www.mysql.com/cn
       logo: https://labs.mysql.com/common/themes/sakila/favicon.ico
       description: MySQL数据库服务是一个完全托管的数据库服务，可使用世界上最受欢迎的开源数据库来部署云原生应用程序。 它是百分百由MySQL原厂开发，管理和提供支持
+    - title: Redis官网
+      url: https://redis.io/
+      logo: https://redis.io/favicon.ico
+      description: 最流行的NoSQL数据库，官方文档与教程。
+    - title: Linux
+      url: https://www.linux.org/
+      logo: https://www.linux.org/attachment.php?attachmentid=440&d=1503604255
+      description: 后端程序员必会的Linux，Linux官网。
+    - title: The Morning Paper
+      url: https://blog.acolyer.org/
+      logo: ''
+      description: 每天推送一篇论文，特别棒。
+    - title: Papers We Love
+      url: https://paperswelove.org/
+      logo: ''
+      description: GitHub 上近 3 万颗星的计算机科学论文社区。
+    - title: SciRate
+      url: https://scirate.com/
+      logo: ''
+      description: 索引 arXiv 好评论文，供大家评论和打分。
+    - title: Lobsters
+      url: https://lobste.rs/
+      logo: ''
+      description: 聚焦于技术的社区，链接聚合和话题讨论。
+    - title: Best Paper Awards in CS
+      url: https://jeffhuang.com/best_paper_awards.html
+      logo: ''
+      description: 1996年以来计算机科学获奖论文收集。
+    - title: Research at Google
+      url: https://research.google/pubs/
+      logo: ''
+      description: Google 发布的一些论文。
+    - title: Microsoft Research
+      url: https://www.microsoft.com/en-us/research/
+      logo: ''
+      description: 微软发布的论文。
+    - title: MIT Distributed Systems Reading Group
+      url: https://dsrg.pdos.csail.mit.edu/
+      logo: ''
+      description: MIT 与分布式系统相关的论文。
+    - title: cat-v.org
+      url: http://doc.cat-v.org/
+      logo: ''
+      description: 不只有论文，还有技术手册或是一些有意思的文章。
+    - title: Usenix Best Papers
+      url: https://www.usenix.org/conferences/best-papers
+      logo: ''
+      description: Usenix 上推荐的最佳论文。
     - title: 免费的编程中文书籍索引
       url: https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md
       logo: https://avatars1.githubusercontent.com/u/14127308?s=200&v=4
@@ -6146,12 +6422,44 @@
       url: https://www.w3cschool.cn
       logo: https://7n.w3cschool.cn/statics/images/favicon.ico?v=2.2
       description: 编程狮，是一个专业的W3C前端开发及编程入门学习平台
+    - title: 码农教程
+      url: http://www.manongjc.com/
+      logo: http://www.manongjc.com/favicon.ico
+      description: 大量IT编程入门教程（JAVA、PHP、JAVASCRIPT、C、C++、HTML、CSS等）。
+    - title: Break易站
+      url: https://www.breakyizhan.com/
+      logo: https://www.breakyizhan.com/favicon.ico
+      description: 比较多的编程教程（Java、前端、服务端部署等）。
+    - title: jenkov - Java教程
+      url: http://tutorials.jenkov.com/
+      logo: https://jenkov.com/favicon.ico
+      description: 国外的技术网站，提供非常不错的Java教程。
+    - title: Baeldung - Java教程
+      url: https://www.baeldung.com/
+      logo: https://www.baeldung.com/wp-content/uploads/2016/05/icon_facebook.png
+      description: 国外的技术网站，提供非常不错的Java教程。
+    - title: 我要自学网
+      url: https://www.51zxw.net/
+      logo: https://www.51zxw.net/favicon.ico
+      description: 比较多的自学教程，有程序设计内容的分类。
+    - title: 大学生自学网
+      url: http://v.dxsbb.com/jisuanji/
+      logo: http://v.dxsbb.com/favicon.ico
+      description: 有一些计算机软件的大学课程。
+    - title: 搜罗导航
+      url: https://www.sldh123.com/
+      logo: https://www.sldh123.com/favicon.ico
+      description: 一个聚合网站，收藏了很多网站。
   - term: 面试刷题
     links:
     - title: LeetCode
       url: https://leetcode-cn.com
       logo: https://static.leetcode-cn.com/cn-assets/icons/favicon-96x96.png
       description: 提高你的编码技能，快速找到一份工作。这是扩展你知识和为下一次面试做好准备的最佳地方。
+    - title: LeetCode 英文站
+      url: https://leetcode.com/
+      logo: https://leetcode.com/favicon.ico
+      description: 常见算法题在这里都可以找到。
     - title: 牛客网
       url: https://www.nowcoder.com
       logo: https://www.nowcoder.com/favicon.ico
@@ -6430,6 +6738,134 @@
       description: react作者的博客
   - term: 个人博客
     links:
+    - title: 陈硕-CSDN博客
+      url: https://blog.csdn.net/Solstice?type=blog
+      logo: default.webp
+      description: cpp
+    - title: coolshell.cn
+      url: https://coolshell.cn/articles/1870.html
+      logo: default.webp
+      description: 博客
+    - title: 技术胖 - 首页
+      url: https://jspang.com/
+      logo: default.webp
+      description: 博客
+    - title: Gemma 4 越狱了！ 谷歌最强开源模型，这才是用户真正需要的本地AI！ – 零度博客
+      url: https://www.freedidi.com/23720.html
+      logo: default.webp
+      description: ''
+    - title: Google 推出全新 Veo 3.1 模型，影片生成更聪明、更清晰、更自然！ 附上提示词及免费使用入口 - 零度博客
+      url: https://www.freedidi.com/21138.html
+      logo: default.webp
+      description: ''
+    - title: 爆火的“无审查”AI 视频模型来了！Sulphur 2 本地部署实测：8G 显存也能跑！ - 零度博客
+      url: https://www.freedidi.com/24142.html
+      logo: default.webp
+      description: ''
+    - title: 独立思维客-一个专注于技术分享的博客平台
+      url: https://dulisiwei.dpdns.org/post/430
+      logo: default.webp
+      description: ''
+    - title: 独立思维客-一个专注于技术分享的博客平台
+      url: https://dulisiwei.dpdns.org/post/441
+      logo: default.webp
+      description: ''
+    - title: MoonTV 电视观看的最佳方法！完全免费开源！OrionTV 播放神器，同样支持手机！ - 零度博客
+      url: https://www.freedidi.com/20490.html
+      logo: default.webp
+      description: ''
+    - title: Claude Mythos 5 被“蒸馏”了？Qwythos-9B 突然开源，百万 Token 上下文，4GB 显存即可部署！ - 零度博客
+      url: https://www.freedidi.com/24592.html
+      logo: default.webp
+      description: ''
+    - title: Windows Copilot 被逆向！无需 API Key 免费白嫖 GPT-5，对接本地AI Agent，部署教程来了！ - 零度博客
+      url: https://www.freedidi.com/24570.html
+      logo: default.webp
+      description: ''
+    - title: Grok 4.5 正式发布！免费使用，编码能力极强，支持 Grok Build 和 Cursor，附使用教程！ – 零度博客
+      url: https://www.freedidi.com/24794.html
+      logo: default.webp
+      description: ''
+    - title: Coding Horror - Jeff Atwood的博客
+      url: https://blog.codinghorror.com/
+      logo: ''
+      description: StackOverflow联合创始人Jeff Atwood的编程博客
+    - title: Joel on Software - Joel Spolsky的博客
+      url: https://www.joelonsoftware.com/
+      logo: ''
+      description: StackOverflow联合创始人Joel Spolsky的软件开发博客
+    - title: The Clean Coder - Robert C. Martin的博客
+      url: https://blog.cleancoder.com/
+      logo: ''
+      description: '"Uncle Bob" Robert C. Martin的编程博客'
+    - title: Martin Fowler - 软件架构大师
+      url: https://martinfowler.com/
+      logo: ''
+      description: 软件架构和重构领域权威Martin Fowler的网站
+    - title: Paul Graham - Essays
+      url: https://www.paulgraham.com/articles.html
+      logo: ''
+      description: Y Combinator联合创始人Paul Graham的文章集
+    - title: Bruce Eckel - Thinking in Java作者
+      url: https://bruceeckel.github.io/
+      logo: ''
+      description: 《Thinking in Java》作者Bruce Eckel的博客
+    - title: Herb Sutter - C++大师
+      url: https://herbsutter.com/
+      logo: ''
+      description: C++标准委员会主席Herb Sutter的博客
+    - title: Eli Bendersky's website
+      url: https://eli.thegreenplace.net/
+      logo: ''
+      description: 软件工程师Eli Bendersky的技术博客
+    - title: catonmat - 命令行技巧
+      url: https://catonmat.net/
+      logo: ''
+      description: Peteris Krumins的编程和命令行技巧博客
+    - title: Evan Klitzke's Blog
+      url: https://eklitzke.org/
+      logo: ''
+      description: Evan Klitzke的技术博客
+    - title: Julia Evans - 系统编程
+      url: https://jvns.ca/
+      logo: ''
+      description: Julia Evans的编程学习和系统编程博客
+    - title: null program - Chris Wellons
+      url: https://nullprogram.com/
+      logo: ''
+      description: Chris Wellons的C/系统编程博客
+    - title: Preshing on Programming
+      url: https://preshing.com/
+      logo: ''
+      description: Jeff Preshing的并发编程和C++博客
+    - title: Programming is Terrible
+      url: https://programmingisterrible.com/
+      logo: ''
+      description: 关于编程的深度思考博客
+    - title: Accidentally Quadratic
+      url: https://accidentallyquadratic.tumblr.com/
+      logo: ''
+      description: 记录意外二次复杂度问题的博客
+    - title: 美团技术团队
+      url: https://tech.meituan.com/
+      logo: https://tech.meituan.com/favicon.ico
+      description: 美团技术团队的博客，干货满满。
+    - title: 廖雪峰的官方网站
+      url: https://www.liaoxuefeng.com/
+      logo: https://www.liaoxuefeng.com/favicon.ico
+      description: 廖雪峰老师的网站，有一些不错的入门教程。
+    - title: Steve Yegge
+      url: https://steve-yegge.blogspot.com/
+      logo: ''
+      description: 知名程序员Steve Yegge的博客，文章多为长篇大论。
+    - title: Brendan Gregg
+      url: https://www.brendangregg.com/
+      logo: https://www.brendangregg.com/favicon.ico
+      description: Netflix工程师，大量Linux性能分析相关的高质量文章。
+    - title: Fluent C++
+      url: https://www.fluentcpp.com/
+      logo: https://www.fluentcpp.com/favicon.ico
+      description: Murex首席工程师的C++博客，有很多很不错的C++相关文章。
     - title: Vadim's website
       url: https://vadimdemedes.com
       logo: https://vadimdemedes.com/favicon.ico
@@ -6492,6 +6928,122 @@
       url: https://www.cnblogs.com
       logo: https://assets.cnblogs.com/logo_square.png
       description: 博客园是一个面向开发者的知识分享社区。自创建以来，博客园一直致力并专注于为开发者打造一个纯净的技术交流社区，推动并帮助开发者通过互联网分享知识，从而让更多开发者从中受益。博客园的使命是帮助开发者用代码改变世界。
+    - title: Airbnb Engineering
+      url: https://medium.com/airbnb-engineering
+      logo: ''
+      description: Airbnb 工程技术博客。
+    - title: All Things Distributed
+      url: https://www.allthingsdistributed.com/
+      logo: ''
+      description: Werner Vogels（AWS CTO）的博客。
+    - title: AWS Architecture Blog
+      url: https://aws.amazon.com/blogs/architecture/
+      logo: ''
+      description: AWS 架构设计博客。
+    - title: Bandcamp Tech
+      url: https://bandcamp.com/developer
+      logo: ''
+      description: Bandcamp 技术博客。
+    - title: Bitly Engineering Blog
+      url: https://bitly.com/blog/
+      logo: ''
+      description: Bitly 工程博客。
+    - title: Cloudera Blog
+      url: https://blog.cloudera.com/
+      logo: ''
+      description: Cloudera 开发者博客。
+    - title: Dropbox Tech Blog
+      url: https://dropbox.tech/
+      logo: ''
+      description: Dropbox 技术博客。
+    - title: Etsy Code as Craft
+      url: https://codeascraft.com/
+      logo: ''
+      description: Etsy 技术博客。
+    - title: Facebook Engineering
+      url: https://engineering.fb.com/
+      logo: ''
+      description: Facebook 工程技术博客。
+    - title: Flickr Code
+      url: https://code.flickr.net/
+      logo: ''
+      description: Flickr 技术博客。
+    - title: Foursquare Engineering
+      url: https://engineering.foursquare.com/
+      logo: ''
+      description: Foursquare 工程博客。
+    - title: Google Research Blog
+      url: https://blog.research.google/
+      logo: ''
+      description: Google 研究博客。
+    - title: Groupon Engineering
+      url: https://engineering.groupon.com/
+      logo: ''
+      description: Groupon 工程博客。
+    - title: High Scalability
+      url: http://highscalability.com/
+      logo: ''
+      description: 关于大型网站如何扩展的高质量文章。
+    - title: Instagram Engineering
+      url: https://engineering.instagram.com/
+      logo: ''
+      description: Instagram 工程博客。
+    - title: LinkedIn Engineering
+      url: https://engineering.linkedin.com/
+      logo: ''
+      description: LinkedIn 工程博客。
+    - title: Pinterest Engineering
+      url: https://engineering.pinterest.com/
+      logo: ''
+      description: Pinterest 工程博客。
+    - title: Quora Engineering
+      url: https://engineering.quora.com/
+      logo: ''
+      description: Quora 工程博客。
+    - title: Songkick Technology Blog
+      url: https://www.songkick.com/tech-blog/
+      logo: ''
+      description: Songkick 技术博客。
+    - title: SoundCloud Backstage Blog
+      url: https://developers.soundcloud.com/blog/
+      logo: ''
+      description: SoundCloud 后台技术博客。
+    - title: Square Corner Blog
+      url: https://developer.squareup.com/blog/
+      logo: ''
+      description: Square 开发者博客。
+    - title: The Reddit Blog
+      url: https://www.redditinc.com/blog/
+      logo: ''
+      description: Reddit 官方博客。
+    - title: The GitHub Blog
+      url: https://github.blog/
+      logo: ''
+      description: GitHub 官方博客。
+    - title: The Netflix Tech Blog
+      url: https://netflixtechblog.com/
+      logo: ''
+      description: Netflix 技术博客。
+    - title: Twilio Engineering Blog
+      url: https://www.twilio.com/blog
+      logo: ''
+      description: Twilio 工程博客。
+    - title: Twitter Engineering
+      url: https://blog.twitter.com/engineering
+      logo: ''
+      description: Twitter 工程博客。
+    - title: WebEngage Engineering Blog
+      url: https://engineering.webengage.com/
+      logo: ''
+      description: WebEngage 工程博客。
+    - title: Yelp Engineering Blog
+      url: https://engineeringblog.yelp.com/
+      logo: ''
+      description: Yelp 工程博客。
+    - title: Smarkets Blog
+      url: https://smarketshq.com/
+      logo: ''
+      description: Smarkets 技术博客。
 - taxonomy: 社交资讯
   icon: fas fa-share-alt fa-lg
   list:
@@ -6836,6 +7388,10 @@
       description: 百度学术搜索，是一个提供海量中英文文献检索的学术资源搜索平台，涵盖了各类学术期刊、学位、会议论文，旨在为国内外学者提供最好的科研体验。
   - term: 网盘搜索
     links:
+    - title: PanSou 盘搜
+      url: https://so.252035.xyz/
+      logo: default.webp
+      description: ''
     - title: 蜂吧-网盘公开资源搜索引擎
       url: https://www.fengba.net
       logo: https://www.fengba.net/favicon.ico
@@ -7068,6 +7624,22 @@
   list:
   - term: 购物
     links:
+    - title: AppStore.cx - App Store 各区价格与换算
+      url: https://appstore.cx/
+      logo: default.webp
+      description: ai
+    - title: 网购超值iTunes 礼品卡 (土耳其) | 卡密秒发，安全方便 - SEAGM
+      url: https://www.seagm.com/zh-cn/itunes-gift-card-turkey
+      logo: default.webp
+      description: ai
+    - title: 查找全球最便宜的应用订阅价格 - Find Cheap Subs
+      url: https://www.findcheapsubs.com/zh
+      logo: default.webp
+      description: ''
+    - title: '【网站自荐】FindCheapSubs：全球 App 订阅价格比价工具，帮你快速找到订阅低价区，拒绝为数字服务付冤枉钱 · Issue #9196 · ruanyf/weekly'
+      url: https://github.com/ruanyf/weekly/issues/9196
+      logo: default.webp
+      description: ''
     - title: 闲鱼 - 闲不住？上闲鱼！
       url: https://www.goofish.com
       logo: https://img.alicdn.com/tfs/TB19WObTNv1gK0jSZFFXXb0sXXa-144-144.png
@@ -7215,6 +7787,26 @@
   list:
   - term: 招聘/求职
     links:
+    - title: 国聘
+      url: https://www.iguopin.com/
+      logo: default.webp
+      description: 招聘
+    - title: 济南高校人才网|济南高才网_济南硕士博士高层次人才招聘信息平台
+      url: https://m.gaoxiaojob.com/column/78.html
+      logo: default.webp
+      description: ''
+    - title: 济南事业单位公开招聘
+      url: https://jnhrss.jinan.gov.cn/col/col18625/index.html
+      logo: default.webp
+      description: ''
+    - title: 2026年度济南市教育局所属学校（单位）公开招聘人员公告
+      url: https://jnedu.jinan.gov.cn/col/col18904/art/2026/art_7feada3689274075af0f2fda132824f7.html
+      logo: default.webp
+      description: ''
+    - title: 国资央企招聘平台
+      url: https://cujiuye.iguopin.com/
+      logo: default.webp
+      description: ''
     - title: 电鸭社区-专注远程工作招聘交流-远程工作，从电鸭开始
       url: https://eleduck.com
       logo: https://eleduck.com/static/favicon.ico
@@ -7790,6 +8382,42 @@
       description: 芒果TV-大家都在看的在线视频网站-热门综艺最新电影电视剧在线观看
   - term: 第三方影视
     links:
+    - title: 4K原盘免费下载
+      url: https://pomo.mom/
+      logo: default.webp
+      description: ''
+    - title: Watch Free Live World TV | Global &amp; Local Channels - Famelack
+      url: https://famelack.com/
+      logo: default.webp
+      description: ''
+    - title: 下载免费 IPTV M3U 播放列表（每日更新）| FreeTV
+      url: https://freetv.fun/zh-hans/playlist
+      logo: default.webp
+      description: ''
+    - title: 在线视频文案提取工具，一键提取视频文案 - 全平台抖音视频文案提取
+      url: https://www.transcriptgenerate.com/zh-CN
+      logo: default.webp
+      description: ''
+    - title: 免费视频下载_哔哩哔哩B站视频下载_抖音无水印视频下载_YouTube油管视频下载-GreenVideo视频下载
+      url: https://greenvideo.cc/
+      logo: default.webp
+      description: ''
+    - title: TV Explorer
+      url: https://tvexplorer.live/channel/BarcaTV.es.SD/category/sports
+      logo: default.webp
+      description: ''
+    - title: Ayouth的影视站点推荐
+      url: https://ayouth.top/ayouth/video.html
+      logo: default.webp
+      description: ''
+    - title: MoonTV 一个开箱即用的、跨平台的影视聚合播放器! 完全免费开源 - 零度博客
+      url: https://www.freedidi.com/20293.html
+      logo: default.webp
+      description: ''
+    - title: IPTV Live
+      url: https://iptv.ramadhvni.com/
+      logo: default.webp
+      description: ''
     - title: 樱花影视 - 最新电影电视剧综艺动漫免费在线观看
       url: https://buosn.com
       logo: https://buosn.com/template/mytheme/statics/img/tb.png
@@ -8021,6 +8649,30 @@
   list:
   - term: 精选导航
     links:
+    - title: 爱达杂货铺 | 收集那些有用的东西|爱达导航
+      url: https://adzhp.cc/
+      logo: default.webp
+      description: rss
+    - title: 灵医智惠 - 百度大脑技术驱动的AI医疗品牌 | AIGC工具导航
+      url: https://www.aigc.cn/sites/27770.html
+      logo: default.webp
+      description: 百度
+    - title: Seamless Communication - Meta推出的实时翻译工具 | AIGC工具导航
+      url: https://www.aigc.cn/sites/80678.html
+      logo: default.webp
+      description: 翻译
+    - title: 寒江雪的导航网站
+      url: https://cold-rivers-snow.github.io/nav/
+      logo: default.webp
+      description: ''
+    - title: 科技共享导航站
+      url: https://kjgx.168668520.xyz/
+      logo: default.webp
+      description: ''
+    - title: 爱分享导航站
+      url: https://afengxiang.github.io/afx/
+      logo: default.webp
+      description: ''
     - title: 发现导航
       url: https://official.nav3.cn
       logo: https://gcore.jsdelivr.net/gh/xjh22222228/public@gh-pages/nav/logo2.svg
@@ -8175,6 +8827,50 @@
       description: Free personal email and calendar from Microsoft.
   - term: 在线翻译
     links:
+    - title: 百度AI同传
+      url: https://tongchuan.baidu.com/
+      logo: default.webp
+      description: 百度
+    - title: 讯飞听见-免费在线录音转文字-语音转文字-录音整理-语音翻译软件
+      url: https://www.iflyrec.com/
+      logo: default.webp
+      description: 讯飞
+    - title: 讯飞同传-会议同传-专业AI同声传译设备-实时字幕翻译软件
+      url: https://tongchuan.iflyrec.com/
+      logo: default.webp
+      description: 讯飞
+    - title: 沉浸式翻译 - 双语对照网页翻译插件 | PDF翻译 | 视频字幕翻译
+      url: https://immersivetranslate.com/
+      logo: default.webp
+      description: 翻译
+    - title: DeepL翻译：全世界最准确的翻译
+      url: https://www.deepl.com/zh/translator
+      logo: default.webp
+      description: 翻译
+    - title: 网易见外 - AI智能语音转写听翻平台
+      url: https://sight.youdao.com/
+      logo: default.webp
+      description: 翻译
+    - title: 彩云小译官网 - 高效准确的翻译工具 | 文字翻译 | 文档翻译 | 网页翻译 | 浏览器插件 | 双语对照 | 术语库
+      url: https://fanyi.caiyunapp.com/
+      logo: default.webp
+      description: 翻译
+    - title: 有道智云AI开放平台
+      url: https://ai.youdao.com/
+      logo: default.webp
+      description: 翻译
+    - title: 腾讯交互翻译TranSmart
+      url: https://yi.qq.com/zh-CN/index
+      logo: default.webp
+      description: 翻译
+    - title: 火山翻译 - 在线翻译
+      url: https://translate.volcengine.com/
+      logo: default.webp
+      description: 翻译
+    - title: Paperpal - AI英文论文润色与写作翻译免费平台
+      url: https://www.editage.cn/paperpal?utm_source=aigc&utm_medium=Banner&utm_campaign=Banner
+      logo: default.webp
+      description: 论文
     - title: 谷歌翻译
       url: https://translate.google.com.hk/
       logo: https://res.bioit.top/logos/t/translate-google.png
@@ -8432,6 +9128,10 @@
       description: TBtools 技能易物社区。
   - term: 技术社区
     links:
+    - title: Newest Questions - Stack Overflow
+      url: https://stackoverflow.com/questions
+      logo: default.webp
+      description: 社区
     - title: CSDN
       url: https://www.csdn.net/
       logo: https://res.bioit.top/logos/c/csdn.png
@@ -8440,6 +9140,10 @@
       url: https://www.infoq.cn/
       logo: https://res.bioit.top/logos/i/infoq.png
       description: 旨在促进软件开发领域知识与创新的传播。
+    - title: 51CTO
+      url: https://www.51cto.com/
+      logo: https://www.51cto.com/favicon.ico
+      description: 一个IT技术网站。
     - title: 花粉俱乐部
       url: https://club.huawei.com/
       logo: https://res.bioit.top/logos/h/huaweicloud.png
@@ -8824,6 +9528,86 @@
   list:
   - term: 未分类
     links:
+    - title: 编程语言转换学习平台 | 从已知语言快速掌握新语言
+      url: https://langshift.dev/zh-cn
+      logo: default.webp
+      description: rss
+    - title: OpenCLI — Make Any Website Your CLI
+      url: https://opencli.info/
+      logo: default.webp
+      description: rss
+    - title: Storage  |  Google Cloud Documentation
+      url: https://docs.cloud.google.com/docs/storage?hl=zh-cn
+      logo: default.webp
+      description: rss
+    - title: 午夜咖啡
+      url: https://jolestar.com/
+      logo: default.webp
+      description: rss
+    - title: llm-wiki · GitHub
+      url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
+      logo: default.webp
+      description: rss
+    - title: 资源搜索引擎 - 不死鸟 - 分享为王官网
+      url: https://iui.su/3700/
+      logo: default.webp
+      description: rss
+    - title: super.engineering
+      url: https://super.engineering/
+      logo: default.webp
+      description: ''
+    - title: Grape AI🍇的小店 - 链动小铺
+      url: https://pay.ldxp.cn/shop/JYO0X15L
+      logo: default.webp
+      description: ''
+    - title: (2) 主页 / X
+      url: https://x.com/home
+      logo: default.webp
+      description: ''
+    - title: Center on U.S.–China Relations | Asia Society
+      url: https://asiasociety.org/center-us-china-relations
+      logo: default.webp
+      description: ''
+    - title: Mike Chong – Software Engineer &amp; Technical Leader
+      url: https://www.realmikechong.com/en#writing
+      logo: default.webp
+      description: ''
+    - title: 我与赌毒为敌
+      url: https://wwwp.lanzout.com/b00zxpzouj
+      logo: default.webp
+      description: ''
+    - title: Codex全解【视频文档】
+      url: https://my.feishu.cn/wiki/OCY5wzbGhiLDr8kMulkcLLuSnQd
+      logo: default.webp
+      description: ''
+    - title: Download Google Chrome 139.0.7258.127 for Windows - Filehippo.com
+      url: https://filehippo.com/download_google-chrome/
+      logo: default.webp
+      description: ''
+    - title: 公众号管理 | 公众号文章导出
+      url: https://down.mptext.top/dashboard/account
+      logo: default.webp
+      description: ''
+    - title: SMS-Activate
+      url: https://sms-activate.org/?ref=4203005
+      logo: default.webp
+      description: ''
+    - title: 'Free AI Video Generator: Create Stunning Videos with AI'
+      url: https://www.heygen.com/?sid=rewardful&via=newone
+      logo: default.webp
+      description: ''
+    - title: 工作动态
+      url: https://jnhrss.jinan.gov.cn/col/col18309/index.html
+      logo: default.webp
+      description: ''
+    - title: 能躺赚，134个副业兼职赚钱平台汇总，耗时五天整理！ - 知乎
+      url: https://zhuanlan.zhihu.com/p/704435822
+      logo: default.webp
+      description: ''
+    - title: 26 年最新 AI 编程学习路线一条龙，5 分钟速通！-阿里云开发者社区
+      url: https://developer.aliyun.com/article/1742935
+      logo: default.webp
+      description: ''
     - title: Apple
       url: https://www.apple.com.cn
       logo: ''
@@ -9338,11 +10122,1107 @@
       url: https://www.lagou.com/wn/
       logo: ''
       description: '来自: 招聘'
+  - term: vpn
+    links:
+    - title: my.ipv6boy.com
+      url: https://my.ipv6boy.com/
+      logo: default.webp
+      description: vpn
+    - title: 魔戒（MoJie）- 快速稳定的全球网络加速服务
+      url: https://mojiesafe.biz/
+      logo: default.webp
+      description: vpn
+    - title: Sakuracat - Sakuracat官网|极速安全VPN服务 |樱花猫官网
+      url: https://m-sakuracat.com.cn/
+      logo: default.webp
+      description: vpn
+    - title: 'GitHub - jichangbaike/mojienet: 魔戒.net（mojie）官网注册入口说明， 包含2026年套餐价格、测评体验与使用指南 · GitHub'
+      url: https://github.com/jichangbaike/mojienet
+      logo: default.webp
+      description: vpn
+    - title: 登录 - 魔戒.net
+      url: https://mojie.2gou.ren/login
+      logo: default.webp
+      description: vpn
+    - title: 翻墙看什么
+      url: https://cainiaokeji.blogspot.com/2024/08/blog-post.html?m=1
+      logo: default.webp
+      description: ''
+    - title: Clash-S | 免费公益Clash/V2ray/SSR/Clash-S节点小火箭订阅链接|免费梯子
+      url: https://clash-s.github.io/
+      logo: default.webp
+      description: ''
+    - title: 免费高速节点推荐|免费节点|免费SSR|免费V2ray|免费Clash|免费Trajon
+      url: https://free.datiya.com/
+      logo: default.webp
+      description: ''
+    - title: Release Linux科学上网教程，shellclash linux使用教程，Debian/Ubuntu安装clash linux server vpn · kjfx/vpn · GitHub
+      url: https://github.com/kjfx/vpn/releases/tag/linux
+      logo: default.webp
+      description: ''
+    - title: 爱分享的老李自用机场
+      url: https://li7715.blogspot.com/2025/12/blog-post.html?m=1
+      logo: default.webp
+      description: ''
+    - title: Edge 浏览器新增VPN功能！内置5G免费流量，配合CloudFlare 的Warp+爽歪歪 - 零度博客
+      url: https://www.freedidi.com/9849.html
+      logo: default.webp
+      description: ''
+    - title: Mitce - 提供線上安全
+      url: https://mitce.net/?language=chinese
+      logo: default.webp
+      description: ''
+    - title: 2026年便宜好用的翻墙机场推荐评测(科学上网长期更新) | 二毛
+      url: https://www.ermao.net/posts/vpn/#xsus
+      logo: default.webp
+      description: ''
+    - title: 常见科学上网/翻墙方法汇总:SS机场推荐/SSR机场推荐/V2ray机场推荐/免费机场/chrome浏览器插件/vpn(免费与付费)
+      url: https://groups.google.com/g/fqlt/c/AVl4LgzDSK4?pli=1
+      logo: default.webp
+      description: ''
+    - title: NekoBox for Android/PC官网介绍、教程、APK下载 - NekoBox for Android
+      url: https://getnekobox.com/
+      logo: default.webp
+      description: ''
+    - title: 2026年如何注册 Telegram 账号？如何安全使用TG？注册电报后必做的几个设置 - 数字牧民LC
+      url: https://www.digitalnomadlc.com/how-to-register-and-use-telegram/#lwptoc12
+      logo: default.webp
+      description: ''
+    - title: 魔戒.net
+      url: https://mojie.2gou.ren/sign_out
+      logo: default.webp
+      description: ''
+    - title: Global Access - 免费 Clash/小火箭节点订阅 | 独立开发与前沿 AI 必备网络
+      url: https://zmxoo.xyz/
+      logo: default.webp
+      description: ''
+    - title: Mitce - 提供線上安全
+      url: https://mitce.io/?language=chinese
+      logo: default.webp
+      description: ''
+  - term: loki
+    links:
+    - title: 10pb Grafana
+      url: http://10.251.11.39:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: 12.6 苏州loki
+      url: http://10.224.244.2:32045/explore?orgId=1&left=%5B%221640602800000%22,%221640613599000%22,%22Loki%22,%7B%22exemplar%22:true,%22expr%22:%22%7Bproc%3D%5C%22radosgw%5C%22%7D%20%7C%3D%20%5C%22lifetest27%5C%22%22%7D%5D
+      logo: default.webp
+      description: loki
+    - title: 12.6 汾湖 loki
+      url: http://10.226.134.1:32045/explore?orgId=1&left=%5B%221640602800000%22,%221640613659000%22,%22Loki%22,%7B%22exemplar%22:true,%22expr%22:%22%7Bproc%3D%5C%22ceph-osd%5C%22%7D%20%7C%3D%5C%223abfceac-3ff9-431c-93eb-137f1e489f2b.935503.1%5C%22%22%7D%5D
+      logo: default.webp
+      description: loki
+    - title: 12.6 无锡loki
+      url: http://10.234.112.1:32045/explore?orgId=1&left=%5B%22now-3h%22,%22now%22,%22Loki%22,%7B%22expr%22:%22%7Bproc%3D%5C%22ceph-osd%5C%22%7D%20%7C%3D%20%5C%229937539c-aa41-40c4-aaef-340049131033.431083.71247%5C%22%22%7D%5D
+      logo: default.webp
+      description: loki
+    - title: 南基loki
+      url: http://10.240.27.31:32045/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: 凤凰
+      url: http://10.240.27.26:32045/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: 东莞loki
+      url: http://10.228.222.31:32045/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: 12.1无锡loki
+      url: http://10.234.66.72:32045/
+      logo: default.webp
+      description: loki
+    - title: 研发区ClickHouse - Grafana
+      url: http://100.76.6.134:30080/grafana/explore?orgId=1&left=%5B%22now-1h%22,%22now%22,%22ClickHouse%22,%7B%22refId%22:%22A%22,%22instant%22:true,%22range%22:true,%22exemplar%22:true%7D%5D
+      logo: default.webp
+      description: loki
+    - title: 测试部无锡测试域Home - Grafana
+      url: http://10.253.171.203:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: 宁波1
+      url: http://10.194.151.70:30080/grafana/login
+      logo: default.webp
+      description: loki
+    - title: Grafana  郑州
+      url: http://10.180.151.50:30080/grafana/login
+      logo: default.webp
+      description: loki
+    - title: ningbo2 loki
+      url: http://10.194.152.71:30080/grafana/explore?orgId=1&left=%5B%221660816800000%22,%221660820399000%22,%22Loki_NB2%22,%7B%22expr%22:%22%7Bproc%3D%5C%22ceph-osd%5C%22%7D%22,%22refId%22:%22A%22,%22range%22:true%7D%5D
+      logo: default.webp
+      description: loki
+    - title: 10.2 - Grafana
+      url: http://10.253.171.203:32045/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: Grafana 无锡 500p
+      url: http://10.213.153.46:30080/grafana/login
+      logo: default.webp
+      description: loki
+    - title: Grafana 苏州500p
+      url: http://10.248.137.74:30080/grafana/login
+      logo: default.webp
+      description: loki
+    - title: Grafana 汾湖 500P
+      url: http://10.226.127.74:30080/grafana/login
+      logo: default.webp
+      description: loki
+    - title: Home - Grafana 重庆15.7
+      url: http://10.50.92.1:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: Home - Grafana  uat 12.6
+      url: http://10.224.244.1:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: Grafana   水果云郑州
+      url: http://10.180.151.60:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: Home - Grafana  苏州11.4
+      url: http://10.224.177.26:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: Explore - ClickHouse-1-Log_SZ - Grafana
+      url: http://10.248.135.2:30080/grafana/explore?orgId=1&left=%5B%221681268400000%22,%221681271999000%22,%22ClickHouse-1-Log_SZ%22,%7B%22refId%22:%22A%22,%22queryType%22:%22builder%22,%22rawSql%22:%22SELECT%20*%20FROM%20eos_4_region.accesser_access_log_business_all%20WHERE%20%20%20(%20bucket%20LIKE%20%27%25bucket-objectput10%25%27%20)%20AND%20(%20process_start_time%20%20%3E%3D%20$__fromTime%20AND%20process_start_time%20%3C%3D%20$__toTime%20)%20LIMIT%201000%22,%22builderOptions%22:%7B%22mode%22:%22list%22,%22fields%22:%5B%22*%22%5D,%22limit%22:1000,%22database%22:%22eos_4_region%22,%22table%22:%22accesser_access_log_business_all%22,%22filters%22:%5B%7B%22filterType%22:%22custom%22,%22key%22:%22bucket%22,%22type%22:%22String%22,%22condition%22:%22AND%22,%22operator%22:%22LIKE%22,%22value%22:%22bucket-objectput10%22%7D,%7B%22filterType%22:%22custom%22,%22key%22:%22process_start_time%22,%22type%22:%22DateTime(%27UTC%27)%22,%22condition%22:%22AND%22,%22operator%22:%22WITH%20IN%20DASHBOARD%20TIME%20RANGE%22,%22value%22:%22TODAY%22%7D%5D,%22orderBy%22:%5B%5D%7D,%22format%22:1%7D%5D
+      logo: default.webp
+      description: loki
+    - title: 200pb suzhou Grafana
+      url: http://10.253.171.167:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: Grafana 苏州 10pb
+      url: http://10.251.240.39:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: Grafana  10pb fenhu
+      url: http://10.151.6.39:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: 10pb arm Grafana
+      url: http://10.151.10.15:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: Home - Grafana  呼和浩特 16.1
+      url: http://10.70.166.1:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: COSBench Controller  wuxi 10pb
+      url: http://10.251.11.40:19088/controller/index.html
+      logo: default.webp
+      description: loki
+    - title: Grafana 10pb wuxi
+      url: http://10.251.11.40:30080/grafana/?orgId=1
+      logo: default.webp
+      description: loki
+    - title: 面板 - 中移（苏州）软件技术有限公司
+      url: http://conf.cmss.com/#all-updates
+      logo: default.webp
+      description: loki
+    - title: 中移（苏州）软件技术有限公司统一门户
+      url: http://cmsoft.cmss.cmcc/portal/#/sidebar/index
+      logo: default.webp
+      description: loki
+    - title: Projects · Dashboard · GitLab
+      url: http://gitlab.cmss.com/
+      logo: default.webp
+      description: loki
+    - title: My Reviews · Gerrit Code Review
+      url: http://gerrit.cmss.com/dashboard/self
+      logo: default.webp
+      description: loki
+    - title: 'BC-SDS - Revision 6337: /product/BC-oNest'
+      url: http://svn.cmss.com/svn/BC-SDS/product/BC-oNest/
+      logo: default.webp
+      description: loki
+    - title: 10.10.10.2/portal/login?t=1623374981.586148&amp;
+      url: http://10.10.10.2/portal/login?t=1623374981.586148&
+      logo: default.webp
+      description: loki
+    - title: 研发管理规制（管理办法、实施细则等） - IaaS产品部 - 中移（苏州）软件技术有限公司
+      url: http://conf.cmss.com/pages/viewpage.action?pageId=86237627
+      logo: default.webp
+      description: loki
+    - title: gerrit.cmss Code Review
+      url: http://gerrit.cmss.com/#/c/oNest/onest/+/3263831/1/src/rgw/rgw_dynamodb.cc
+      logo: default.webp
+      description: loki
+    - title: My Reviews | gerrit.cmss Code Review
+      url: http://gerrit.cmss.com/#/dashboard/self
+      logo: default.webp
+      description: loki
+    - title: 'BC-SDS - Revision 6848: /product/BC-SDS'
+      url: http://svn.cmss.com/svn/BC-SDS/product/BC-SDS/
+      logo: default.webp
+      description: loki
+    - title: 科研管理平台
+      url: http://keji.hq.cmcc/
+      logo: default.webp
+      description: loki
+    - title: linux/accesser · Gerrit Code Review
+      url: http://gerrit.cmss.com/admin/repos/linux/accesser
+      logo: default.webp
+      description: loki
+    - title: System Dashboard - 中移软件任务跟踪系统-JIRA
+      url: http://jira.cmss.com/secure/Dashboard.jspa
+      logo: default.webp
+      description: loki
+    - title: 面板 - 中移（苏州）软件技术有限公司
+      url: http://conf.cmss.com/index.action#all-updates
+      logo: default.webp
+      description: loki
+    - title: 页面 - OSG 对象存储产品组 - 中移（苏州）软件技术有限公司
+      url: http://conf.cmss.com/display/OSG
+      logo: default.webp
+      description: loki
+    - title: 发票管理
+      url: http://100.71.7.60:30080/
+      logo: default.webp
+      description: loki
+    - title: 云空间
+      url: https://www.ecpan.cn/
+      logo: default.webp
+      description: loki
+    - title: 登录|智维平台
+      url: http://ccops-paas.cmecloud.cn/login/
+      logo: default.webp
+      description: loki
+    - title: 12.6对象存储规划方案v1.13（调整苏州公网地址和策略）
+      url: https://docs.qq.com/sheet/DV01ZVlNMVWlqV2lL?tab=tq9yph&_t=1635745084963@
+      logo: default.webp
+      description: loki
+    - title: 移动云测试平台
+      url: http://utp.cmss.com/dashboard
+      logo: default.webp
+      description: loki
+    - title: 移动云4A管控平台-云阙
+      url: https://10.174.76.181:8081/iga/login_sy.html
+      logo: default.webp
+      description: loki
+    - title: CI Lint · EOS / accesser / accesser-src · GitLab
+      url: http://gitlab.cmss.com/eos/accesser/accesser-src/-/ci/lint
+      logo: default.webp
+      description: loki
+    - title: 欢迎来到OSG对象存储产品组 ;-) - OSG 对象存储产品组 - 中移（苏州）软件技术有限公司
+      url: http://conf.cmss.com/pages/viewpage.action?pageId=142459489
+      logo: default.webp
+      description: loki
+    - title: Harbor
+      url: http://100.71.8.124/harbor/projects
+      logo: default.webp
+      description: loki
+    - title: Harbor 125
+      url: http://100.71.8.125/harbor/projects/43/repositories
+      logo: default.webp
+      description: loki
+    - title: Harbor
+      url: http://100.71.8.120/harbor/sign-in?redirect_url=%2Fharbor%2Fprojects
+      logo: default.webp
+      description: loki
+    - title: 草帽云
+      url: http://10.160.22.20:31114/login
+      logo: default.webp
+      description: loki
+    - title: 客户端检查
+      url: https://112.25.65.61:52227/sdp/theme/check_client.html
+      logo: default.webp
+      description: loki
 - taxonomy: AI工具
   icon: fas fa-robot
   list:
   - term: AI资源
     links:
+    - title: 豆包
+      url: https://www.doubao.com/?_enter_from=new_home_page
+      logo: default.webp
+      description: 书签栏
+    - title: 扣子编程
+      url: https://code.coze.cn/home?from_source=https%3A%2F%2Fwww.coze.cn%2F
+      logo: default.webp
+      description: 字节
+    - title: 小悟空
+      url: https://wukong.com/tool
+      logo: default.webp
+      description: 字节
+    - title: 即创
+      url: https://aic.oceanengine.com/
+      logo: default.webp
+      description: 字节
+    - title: Trae - 插件
+      url: https://www.trae.com.cn/plugin
+      logo: default.webp
+      description: 字节
+    - title: 飞书云文档
+      url: https://my.feishu.cn/drive/home/
+      logo: default.webp
+      description: 字节
+    - title: ai提效手册 - 小红书搜索
+      url: https://www.xiaohongshu.com/search_result?keyword=ai%25E6%258F%2590%25E6%2595%2588%25E6%2589%258B%25E5%2586%258C&source=web_search_result_notes
+      logo: default.webp
+      description: 字节
+    - title: PromptPilot
+      url: https://promptpilot.volcengine.com/home
+      logo: default.webp
+      description: 字节
+    - title: Attention Required! | Cloudflare
+      url: https://platform.openai.com/api-keys
+      logo: default.webp
+      description: ai
+    - title: auth.openai.com/api/accounts/deviceauth/authorize
+      url: https://auth.openai.com/api/accounts/deviceauth/authorize
+      logo: default.webp
+      description: ai
+    - title: chatgpt.com
+      url: https://chatgpt.com/codex/cloud/settings/analytics
+      logo: default.webp
+      description: ai
+    - title: ZCode - 简单、迅捷、氛围十足 | GLM-5.2 官方适配开发工具
+      url: https://zcode.z.ai/cn
+      logo: default.webp
+      description: ai
+    - title: 通义_致力于实现类人智慧的通用智能-通义千问
+      url: https://tongyi.aliyun.com/welcome
+      logo: default.webp
+      description: 阿里
+    - title: 通义听悟
+      url: https://tingwu.aliyun.com/home
+      logo: default.webp
+      description: 阿里
+    - title: 通义万相_AI创意作画_AI绘画_人工智能-阿里云
+      url: https://tongyi.aliyun.com/wanxiang/
+      logo: default.webp
+      description: 阿里
+    - title: 绘蛙官网-让你的商品第一时间被种草-简单好用的AI图文生成平台
+      url: https://www.ihuiwa.com/
+      logo: default.webp
+      description: 阿里
+    - title: 阿里妈妈 创意中心 - 首页
+      url: https://chuangyi.taobao.com/
+      logo: default.webp
+      description: 阿里
+    - title: 通义法睿 法律大模型 法律智能体 法律AI 人工智能-阿里云
+      url: https://tongyi.aliyun.com/farui
+      logo: default.webp
+      description: 阿里
+    - title: 通义灵码_你的智能编码助手-阿里云
+      url: https://lingma.aliyun.com/lingma?spm=5176.28326591.0.0.4d0555e3Bf47Vq
+      logo: default.webp
+      description: 阿里
+    - title: 夸克官网_电脑版下载_你的AI搜索
+      url: https://www.quark.cn/
+      logo: default.webp
+      description: 阿里
+    - title: 内容安全_云盾_违规内容识别_安全-阿里云
+      url: https://www.aliyun.com/product/lvwang
+      logo: default.webp
+      description: 阿里
+    - title: 百宝箱
+      url: https://tbox.alipay.com/community
+      logo: default.webp
+      description: 阿里
+    - title: 腾讯元宝
+      url: https://yuanbao.tencent.com/chat
+      logo: default.webp
+      description: 腾讯
+    - title: 可灵 AI - 新一代 AI 创意生产力平台
+      url: https://klingai.kuaishou.com/
+      logo: default.webp
+      description: 腾讯
+    - title: AI文字/图片检测
+      url: https://matrix.tencent.com/ai-detect/
+      logo: default.webp
+      description: 腾讯
+    - title: 腾讯智影
+      url: https://zenvideo.qq.com/
+      logo: default.webp
+      description: 腾讯
+    - title: ARC官网-腾讯
+      url: https://arc.tencent.com/zh/ai-demos/faceRestoration
+      logo: default.webp
+      description: 腾讯
+    - title: 帮小忙，腾讯QQ浏览器在线工具箱平台
+      url: https://tool.browser.qq.com/
+      logo: default.webp
+      description: 腾讯
+    - title: 腾讯元器
+      url: https://yuanqi.tencent.com/agent-shop
+      logo: default.webp
+      description: 腾讯
+    - title: 腾讯医典——为大众而生的专业医学科普宝典
+      url: https://baike.qq.com/
+      logo: default.webp
+      description: 腾讯
+    - title: 腾讯混元3D
+      url: https://3d.hunyuan.tencent.com/login?redirect_url=https://3d.hunyuan.tencent.com/
+      logo: default.webp
+      description: 腾讯
+    - title: 腾讯Effidit
+      url: https://effidit.qq.com/demo
+      logo: default.webp
+      description: 腾讯
+    - title: 橙篇AI - 用橙篇，就成了
+      url: https://cp.baidu.com/
+      logo: default.webp
+      description: 百度
+    - title: 文心一格 - AI艺术和创意辅助平台
+      url: https://yige.baidu.com/
+      logo: default.webp
+      description: 百度
+    - title: 百度文库 - 一站式AI内容获取和创作平台
+      url: https://wenku.baidu.com/?_wkts_=1773365988834
+      logo: default.webp
+      description: 百度
+    - title: 曦灵数字人
+      url: https://xiling.cloud.baidu.com/
+      logo: default.webp
+      description: 百度
+    - title: 度加剪辑-百度官方出品-口播自媒体必备剪辑工具-专为知识创作者而作
+      url: https://ducut.baidu.com/
+      logo: default.webp
+      description: 百度
+    - title: 百度作家平台-一站式AI小说创作与投稿平台
+      url: https://zuojia.baidu.com/loginv2?login=4
+      logo: default.webp
+      description: 百度
+    - title: 灵医智惠
+      url: https://01.baidu.com/home
+      logo: default.webp
+      description: 百度
+    - title: 百度AI搜索 - 办公学习一站解决
+      url: https://chat.baidu.com/search
+      logo: default.webp
+      description: 百度
+    - title: 百度智能云-云智一体深入产业
+      url: https://cloud.baidu.com/
+      logo: default.webp
+      description: 百度
+    - title: 大模型AI原生应用开发平台-百度智能云千帆AppBuilder
+      url: https://qianfan.cloud.baidu.com/appbuilder/
+      logo: default.webp
+      description: 百度
+    - title: 自由画布｜上传素材，精准生成
+      url: https://wenku.baidu.com/board?fr=apply
+      logo: default.webp
+      description: 百度
+    - title: 秒哒·生成式应用开发平台
+      url: https://cloud.baidu.com/product-s/miaoda_home
+      logo: default.webp
+      description: 百度
+    - title: 法行宝-您的免费AI律师
+      url: https://ailegal.baidu.com/
+      logo: default.webp
+      description: 百度
+    - title: 讯飞星火认知大模型
+      url: https://xinghuo.xfyun.cn/desk
+      logo: default.webp
+      description: 讯飞
+    - title: 讯飞智文
+      url: https://zhiwen.xfyun.cn/
+      logo: default.webp
+      description: 讯飞
+    - title: 讯飞智作- AI虚拟主播-虚拟数字人视频制作-文字转语音-语音合成配音网站
+      url: https://www.xfzhizuo.cn/
+      logo: default.webp
+      description: 讯飞
+    - title: 讯飞公文写作-科大讯飞AI公文写作
+      url: https://gw.iflydocs.com/
+      logo: default.webp
+      description: 讯飞
+    - title: 讯飞晓医 讯飞医疗 科大讯飞医疗
+      url: https://www.iflyhealth.com/
+      logo: default.webp
+      description: 讯飞
+    - title: 讯飞语记电脑版 - 讯飞语记官网
+      url: https://iflynote.com/
+      logo: default.webp
+      description: 讯飞
+    - title: 讯飞绘文_一站式AIGC内容运营平台
+      url: https://turbodesk.xfyun.cn/home
+      logo: default.webp
+      description: 讯飞
+    - title: 科大讯飞智能鼠标
+      url: https://mouse.iflytek.com/#/download
+      logo: default.webp
+      description: 讯飞
+    - title: 讯飞绘镜-官方网站
+      url: https://typemovie.art/#/dashboard
+      logo: default.webp
+      description: 讯飞
+    - title: 首页-星火投标
+      url: https://toubiao.xfyun.cn/#/index
+      logo: default.webp
+      description: 讯飞
+    - title: 纳米AI助手
+      url: https://bot.n.cn/
+      logo: default.webp
+      description: DeepSeek
+    - title: DeepSeek
+      url: https://chat.scnet.cn/#/home
+      logo: default.webp
+      description: DeepSeek
+    - title: 火山引擎-云上增长新动力
+      url: https://www.volcengine.com/
+      logo: default.webp
+      description: DeepSeek
+    - title: SiliconFlow, Accelerate AGI to Benefit Humanity
+      url: https://siliconflow.cn/zh-cn/
+      logo: default.webp
+      description: DeepSeek
+    - title: 夸克高考
+      url: https://vt.quark.cn/blm/pc-gaokao-1089/index?uc_param_str=dnntnwvepffrgibijbprsvdsdicheiniutstkp&entry=yz_301&ch=pcquark@homepage_gaokao_seoredirect&x_render_type=csr
+      logo: default.webp
+      description: 搜索
+    - title: Globe Explorer
+      url: https://explorer.globe.engineer/
+      logo: default.webp
+      description: 搜索
+    - title: 纳米AI
+      url: https://bot.n.cn/chat/43601579d2304f11a229e33f11c02b80
+      logo: default.webp
+      description: 搜索
+    - title: 百小应-懂搜索的AI助手
+      url: https://ying.baichuan-ai.com/chat
+      logo: default.webp
+      description: 搜索
+    - title: Miku AI Search
+      url: https://www.hellomiku.com/index
+      logo: default.webp
+      description: 搜索
+    - title: 问小白 - 更专业的AI搜索
+      url: https://www.wenxiaobai.com/
+      logo: default.webp
+      description: 搜索
+    - title: 知乎直答
+      url: https://zhida.zhihu.com/
+      logo: default.webp
+      description: 搜索
+    - title: 当贝AI官网_DeepSeek满血版_全网优质AI大模型
+      url: https://ai.dangbei.com/chat
+      logo: default.webp
+      description: 搜索
+    - title: 新华妙笔-AI公文写作平台
+      url: https://miaobi.xinhuaskl.com/
+      logo: default.webp
+      description: 写作
+    - title: WPS 灵犀
+      url: https://lingxi.wps.cn/creative
+      logo: default.webp
+      description: 写作
+    - title: 秘塔写作猫
+      url: https://xiezuocat.com/
+      logo: default.webp
+      description: 写作
+    - title: 喜马拉雅write-wise
+      url: https://www.ximalaya.com/gatekeeper/write-wise
+      logo: default.webp
+      description: 写作
+    - title: 九歌——人工智能诗歌写作系统
+      url: https://jiuge.thunlp.org/
+      logo: default.webp
+      description: 写作
+    - title: 深言达意 – 找词找句
+      url: https://www.shenyandayi.com/
+      logo: default.webp
+      description: 写作
+    - title: DeepL Write：人工智能驱动的写作助手
+      url: https://www.deepl.com/zh/write
+      logo: default.webp
+      description: 写作
+    - title: 青泥学术-大数据学术写作辅助系统
+      url: https://www.xueshuchuangxin.com/
+      logo: default.webp
+      description: 写作
+    - title: 爱校对官网-免费高效的错别字检查工具
+      url: https://www.ijiaodui.com/
+      logo: default.webp
+      description: 写作
+    - title: YouMind - AI Creation Studio
+      url: https://youmind.ai/welcome
+      logo: default.webp
+      description: 写作
+    - title: WPS AI
+      url: https://ai.wps.cn/
+      logo: default.webp
+      description: PPT
+    - title: AI PPT
+      url: https://aippt.wps.cn/aippt/
+      logo: default.webp
+      description: PPT
+    - title: AiPPT - 全智能 AI 一键生成 PPT
+      url: https://www.aippt.cn/
+      logo: default.webp
+      description: PPT
+    - title: 百度橙篇-AiPPT
+      url: https://cp.baidu.com/chat?type=aiPPT
+      logo: default.webp
+      description: PPT
+    - title: MindShow官网 | AI生成PPT，快速演示你的想法
+      url: https://www.mindshow.ai/
+      logo: default.webp
+      description: PPT
+    - title: ChatPPT_AI一键对话生成PPT_智能排版美化-必优科技智能PPT
+      url: https://chatppt.cn/
+      logo: default.webp
+      description: PPT
+    - title: 天工AI超级智能体
+      url: https://www.tiangong.cn/?skill_id=100&utm_source=bing&utm_campaign=523020039&utm_content=82807374179028&utm_group=1324914123867003&utm_term=%E5%A4%A9%E5%B7%A5ai%E7%BD%91%E9%A1%B5%E7%89%88&match_type=e&utm_medium=176663108&msclkid=036485bd2d1d1cb0aa60ecf262a8f2a6
+      logo: default.webp
+      description: PPT
+    - title: 新华Talk_ChatPPT政务文档平台
+      url: https://xinhua.chatppt.cn/
+      logo: default.webp
+      description: PPT
+    - title: 通义PPT创作_言之有物、设计精美的智能PPT_通义tongyi.ai-通义千问
+      url: https://tongyi.aliyun.com/aippt
+      logo: default.webp
+      description: PPT
+    - title: 轻竹PPT - AI一键生成PPT - 海量PPT模版 - 智能PPT制作网站
+      url: https://www.qzoffice.com/
+      logo: default.webp
+      description: PPT
+    - title: 使用 AI | Gamma 制作演示文稿和幻灯片盒
+      url: https://gamma.app/zh-cn
+      logo: default.webp
+      description: PPT
+    - title: 咔片PPT-AI一键生成PPT-PPT在线智能制作网站
+      url: https://www.cappt.cc/?
+      logo: default.webp
+      description: PPT
+    - title: PPT模板图片在线设计下载-稿定设计
+      url: https://www.gaoding.com/scenes/ppt
+      logo: default.webp
+      description: PPT
+    - title: AI生成PPT | 博思AIPPT - PPTGO
+      url: https://pptgo.cn/
+      logo: default.webp
+      description: PPT
+    - title: 笔格AIPPT - AI一键生成PPT，轻松实现PPT高效排版与制作
+      url: https://bigppt.cn/
+      logo: default.webp
+      description: PPT
+    - title: AI毕业论文写作、AI毕业设计、AI答辩问题预测与PPT模板生成-笔灵AI写作
+      url: https://ibiling.cn/ppt
+      logo: default.webp
+      description: PPT
+    - title: PaperFake AI写作指导平台
+      url: https://paperfake.cn/pc
+      logo: default.webp
+      description: PPT
+    - title: 全智能AI一键生成PPT - 爱设计PPT
+      url: https://ppt.isheji.com/
+      logo: default.webp
+      description: PPT
+    - title: pro.gezhe.com
+      url: https://pro.gezhe.com/auth?redirect_uri=https%3A%2F%2Fpro.gezhe.com%2F&device_type=Gezhe_Browser&bd_vid=null&referrer_user_id=
+      logo: default.webp
+      description: PPT
+    - title: Presentations.AI-用于演示的 ChatGPT
+      url: https://www.presentations.ai/zh
+      logo: default.webp
+      description: PPT
+    - title: SlidesAI：免费的人工智能演示制作工具|使用 AI 生成幻灯片
+      url: https://www.slidesai.io/zh
+      logo: default.webp
+      description: PPT
+    - title: Decktopus AI | Make presentations with AI | AI Presentation Assistant
+      url: https://www.decktopus.com/
+      logo: default.webp
+      description: PPT
+    - title: PowerPresent AI - Create Stunning Presentations with AI
+      url: https://powerpresent.ai/
+      logo: default.webp
+      description: PPT
+    - title: Chronicle
+      url: https://chroniclehq.com/
+      logo: default.webp
+      description: PPT
+    - title: 在线PPT制作_多人协同创建编辑PPT文档 - Zoho Show
+      url: https://www.zoho.com.cn/show/
+      logo: default.webp
+      description: PPT
+    - title: Wonderslide - Fast AI Presentation Designer
+      url: https://wonderslide.com/
+      logo: default.webp
+      description: PPT
+    - title: 秒出PPT - AIPPT一键生成 - Word转PPT
+      url: https://10sppt.com/pptx/
+      logo: default.webp
+      description: PPT
+    - title: 彩漩PPT ｜一站式 PPT 协作分享平台
+      url: https://caixuan.cc/
+      logo: default.webp
+      description: PPT
+    - title: 【官网】万兴智演-网课_微课_讲课-名师必备演示神器
+      url: https://zhiyan.wondershare.cn/
+      logo: default.webp
+      description: PPT
+    - title: GAIPPT官网-AI美化PPT神器
+      url: https://www.gaippt.com/
+      logo: default.webp
+      description: PPT
+    - title: 会PPT(huippt) - 智能AI办公 - 一键生成PPT aippt
+      url: https://www.huippt.com/
+      logo: default.webp
+      description: PPT
+    - title: PPT世界·AIGC - PPT世界
+      url: https://www.pptx.cn/aigc
+      logo: default.webp
+      description: PPT
+    - title: 课件帮官网-数字人视频课件智能创作平台
+      url: https://chat.tydiczt.com/
+      logo: default.webp
+      description: PPT
+    - title: Pi-智能演示文档 | AI-Native的内容创作和共享平台
+      url: https://pi.deepvinci.tech/
+      logo: default.webp
+      description: PPT
+    - title: AI生成PPT | 博思AIPPT - PPTGO
+      url: https://pptgo.cn/?utm_source=referrals&utm_content=aigccn&_channel_track_key=sqxy7Hhz
+      logo: default.webp
+      description: PPT
+    - title: PPT设计_在线PPT设计_PPT美化 - Canva可画
+      url: https://www.canva.cn/create/ppt-slides/
+      logo: default.webp
+      description: PPT
+    - title: 塔猫ChatPPT | AI智能一键生成PPT演示文稿 | 自动生成PPT工具
+      url: https://ppt.tamao.fun/?promotion_code=aigc
+      logo: default.webp
+      description: PPT
+    - title: 美图设计室LivePPT
+      url: https://ppt.designkit.com/
+      logo: default.webp
+      description: PPT
+    - title: PPT模板、PP案例、PPT课件免费下载网站 - PPT百科
+      url: https://www.pptwiki.com/
+      logo: default.webp
+      description: PPT
+    - title: 小浣熊家族 Raccoon - AI 智能助手 - 商汤科技
+      url: https://www.xiaohuanxiong.com/
+      logo: default.webp
+      description: 分析
+    - title: 酷表ChatExcel
+      url: https://www.chatexcel.com/
+      logo: default.webp
+      description: 分析
+    - title: 爱图表
+      url: https://www.aitubiao.com/
+      logo: default.webp
+      description: 分析
+    - title: Flourish | Data Visualization &amp; Storytelling
+      url: https://app.flourish.studio/login
+      logo: default.webp
+      description: 分析
+    - title: Excel插件EasyShu下载
+      url: https://www.yuque.com/cuihuajihome/easyshu/tb3b6rguri607stq
+      logo: default.webp
+      description: 分析
+    - title: 【免费使用】WPSJS插件新成员-WPS演示催化剂
+      url: https://www.yuque.com/cuihuajihome/wpsjs/fuwfir
+      logo: default.webp
+      description: 分析
+    - title: PPT插件EasyShuforPPT
+      url: https://www.yuque.com/cuihuajihome/easyshu/igft2f
+      logo: default.webp
+      description: 分析
+    - title: 企业微信文档
+      url: https://doc.weixin.qq.com/doc/w3_AIAAfAYGAFY32oZOpdrQzqBxvVNHd?scode=AH4AsAe6AAkR4z67YR
+      logo: default.webp
+      description: 分析
+    - title: tusimplebi.com/Download/tusimpleBI_chart_album.pdf
+      url: http://www.tusimplebi.com/Download/tusimpleBI_chart_album.pdf
+      logo: default.webp
+      description: 分析
+    - title: 免费AI绘画生成器：用文本创造AI艺术 - 海艺AI
+      url: https://www.haiyi.art/
+      logo: default.webp
+      description: 画图
+    - title: 让创意照进现实 - 神采PromeAI - 神采网
+      url: https://www.ishencai.com/
+      logo: default.webp
+      description: 画图
+    - title: HiDream.ai- 助你创造美好世界
+      url: https://www.hidreamai.com/lab
+      logo: default.webp
+      description: 画图
+    - title: AI image prompts for Midjourney, Dall-E, Stable Diffusion
+      url: https://freeflo.ai/
+      logo: default.webp
+      description: 画图
+    - title: 'Drawing Prompt: AI-Powered Prompts Generator'
+      url: https://drawing-prompt.com/en
+      logo: default.webp
+      description: 画图
+    - title: MJ 中文站
+      url: https://www.midjourny.cn/home/#/mx
+      logo: default.webp
+      description: 画图
+    - title: MJ-零基础必备的控图技巧 - Midjourney中文站
+      url: https://www.midjourny.cn/tutorial/32.html
+      logo: default.webp
+      description: 画图
+    - title: 无限画-免费AI绘画|AI画画|AIGC创作平台|千库网588ku.com
+      url: https://588ku.com/ai/wuxianhua/Home
+      logo: default.webp
+      description: 画图
+    - title: C站：Civitai网站地址（Stablediffusion模型下载）
+      url: https://civitai.com/images
+      logo: default.webp
+      description: 画图
+    - title: civitai.com
+      url: https://stablediffusionweb.com/
+      logo: default.webp
+      description: 画图
+    - title: 可在线生图的 AI 模型分享社区，还是免费的！ | 吐司 tusiart.com
+      url: https://tusiart.com/?utm_source=aigccn&source_id=aigccn
+      logo: default.webp
+      description: 画图
+    - title: LiblibAI哩布哩布
+      url: https://www.liblib.art/
+      logo: default.webp
+      description: 画图
+    - title: 海螺视频：每个想法都是一部大片
+      url: https://hailuoai.com/video
+      logo: default.webp
+      description: 视频
+    - title: 拍我AI - PixVerse国内正版，热门AI特效
+      url: https://pai.video/login
+      logo: default.webp
+      description: 视频
+    - title: Vidu AI - Powerful AI Video Generator
+      url: https://www.vidu.studio/
+      logo: default.webp
+      description: 视频
+    - title: Video Ocean视频大模型 - 人人皆导演
+      url: https://video.luchentech.com/zh-CN
+      logo: default.webp
+      description: 视频
+    - title: 智谱清言
+      url: https://chatglm.cn/video
+      logo: default.webp
+      description: 视频
+    - title: Genmo. Create videos and images with AI.
+      url: https://www.genmo.ai/
+      logo: default.webp
+      description: 视频
+    - title: Fliki - Turn text into videos with AI voices
+      url: https://fliki.ai/
+      logo: default.webp
+      description: 视频
+    - title: DomoAI | AI Art Generator &amp; Video to Animation Converter
+      url: https://domoai.app/
+      logo: default.webp
+      description: 视频
+    - title: Haiper - AI Video Generator
+      url: https://haiper.ai/creations
+      logo: default.webp
+      description: 视频
+    - title: Stable Video | Generate Videos with AI
+      url: https://www.stablevideo.com/welcome
+      logo: default.webp
+      description: 视频
+    - title: Visualize your concept | LTX Studio
+      url: https://ltx.studio/
+      logo: default.webp
+      description: 视频
+    - title: Viva ai- Bring Every Moment To Life
+      url: https://vivago.ai/home
+      logo: default.webp
+      description: 视频
+    - title: Reface – AI Face Swap App &amp; Video Face Swaps
+      url: https://reface.ai/
+      logo: default.webp
+      description: 视频
+    - title: ComfyUI 创意广场 - 解锁 AI 图像创作无限可能
+      url: https://www.runninghub.cn/works-square?id=all_1875941016195785390
+      logo: default.webp
+      description: 视频
+    - title: Suno AI 音乐创作平台 - 轻松一点，打造专属音乐作品
+      url: https://suno.cn/home/#/create
+      logo: default.webp
+      description: 音乐
+    - title: Mureka
+      url: https://www.mureka.cn/
+      logo: default.webp
+      description: 音乐
+    - title: 海螺音乐-MiniMax旗下产品，引领音乐创作新潮流
+      url: https://hailuoai.com/music
+      logo: default.webp
+      description: 音乐
+    - title: 海绵音乐 - 一键创作你的 AI 音乐
+      url: https://www.haimian.com/
+      logo: default.webp
+      description: 音乐
+    - title: 网易天音
+      url: https://tianyin.music.163.com/#/
+      logo: default.webp
+      description: 音乐
+    - title: Udio | AI Music Generator - Official Website
+      url: https://www.udio.com/
+      logo: default.webp
+      description: 音乐
+    - title: Lovart | 全球首个设计智能体
+      url: https://www.lovart.ai/zh
+      logo: default.webp
+      description: 设计
+    - title: 美图设计室-智能生成海报-一键生成-免费设计平面设计编辑软件-免费模板图文素材
+      url: https://www.designkit.com/?from=xdesign
+      logo: default.webp
+      description: 设计
+    - title: Canva可画_在线设计协作平台_平面设计作图软件_视觉办公套件 - Canva中文官网
+      url: https://www.canva.cn/
+      logo: default.webp
+      description: 设计
+    - title: A1.art - Everyone&#39;s art station
+      url: https://a1.art/
+      logo: default.webp
+      description: 设计
+    - title: YoYo
+      url: https://yoyo.avolutionai.com/
+      logo: default.webp
+      description: 设计
+    - title: PixWeaver - 释放无限想象
+      url: https://pw.shengshu-ai.com/
+      logo: default.webp
+      description: 设计
+    - title: 捏Ta
+      url: https://www.nieta.art/
+      logo: default.webp
+      description: 设计
+    - title: Artiphoria - Let your creativity flow.
+      url: https://www.artiphoria.ai/
+      logo: default.webp
+      description: 设计
+    - title: Pic Copilot-免费电商设计神器-在线抠图去水印
+      url: https://www.piccopilot.com/zh
+      logo: default.webp
+      description: 设计
+    - title: 堆友—多风格AI绘画神器免费生成；多功能AI工具箱集结助力；3D素材在线渲染，免费商用；各类创意设计大赛，等你来战！
+      url: https://d.design/
+      logo: default.webp
+      description: 设计
+    - title: MasterGo 莫高设计 - AI 时代的数字界面生产平台
+      url: https://mastergo.com/
+      logo: default.webp
+      description: 设计
+    - title: AI论文写作-免费论文大纲-在线AI一键生成论文 66论文
+      url: https://www.66paper.cn/AI_A13D921
+      logo: default.webp
+      description: 论文
+    - title: 千笔·AIPassPaper - AI写作指导平台
+      url: https://www.aipaperpass.com/?pic=mnpN
+      logo: default.webp
+      description: 论文
+    - title: ai论文写作助手、论文生成器-笔灵AI写作
+      url: https://ibiling.cn/paper?from=aigcpaper
+      logo: default.webp
+      description: 论文
+    - title: Aibiye官网_ai写论文_论文写作_AI论文写作指导平台
+      url: https://www.aibiye.com/?code=nKMqXm
+      logo: default.webp
+      description: 论文
+    - title: ai毕业论文写作助手 - ai毕业论文生成器 - 摆平AI
+      url: https://baipingai.com/paper/paper-sc?from=aigc
+      logo: default.webp
+      description: 论文
+    - title: 范文喵 - 论文范文V4.0
+      url: https://ai.wolian.chat/openmao/#/ai-paper4/paper4?inviteCode=1764885838405046273
+      logo: default.webp
+      description: 论文
+    - title: 析易-在线科研平台-一键科研，更懂你
+      url: https://www.xieasy.com/homeMarket?code=aigc
+      logo: default.webp
+      description: 论文
+    - title: AI论文君
+      url: https://www.ailunwenjun.com/
+      logo: default.webp
+      description: 论文
+    - title: PaperBetterAI智能写作官网
+      url: http://www.ai.paperbetter.com/
+      logo: default.webp
+      description: 论文
+    - title: AI论文写作 - 在线AI写作助手 | 摆平AI官网
+      url: https://baipingai.com/home
+      logo: default.webp
+      description: 论文
+    - title: Copyleaks - 免费Ai率检测与降AI率工具 - MitataAI检测器
+      url: https://www.copyleaks.top/
+      logo: default.webp
+      description: 检测降重
+    - title: 茅茅虫AI论文写作助手-免费AIGC论文查重_写毕业论文降重
+      url: https://www.mmc.cc/
+      logo: default.webp
+      description: 检测降重
+    - title: 文本识别_智能鉴黄_敏感词过滤_涉政检测_在线体验_网易易盾
+      url: https://dun.163.com/trial/text
+      logo: default.webp
+      description: 检测降重
+    - title: 敏感词检测_文本审核_内容审核_文本过滤_数美科技
+      url: https://www.ishumei.com/new/product/tj/text
+      logo: default.webp
+      description: 检测降重
+    - title: ChatGPT Detector for Essay Writing - Free and Accurate
+      url: https://studycorgi.com/free-writing-tools/chat-gpt-detector/
+      logo: default.webp
+      description: 检测降重
+    - title: The Most Trusted AI Detector | ChatGPT Detection Tool
+      url: https://gowinston.ai/
+      logo: default.webp
+      description: 检测降重
+    - title: ai论文降重查重 | AI痕迹检测去除 | AIGC查重网站 | 笔灵AI助手
+      url: https://ibiling.cn/paper-pass?from=aigcpass
+      logo: default.webp
+      description: 检测降重
+    - title: Aibiye官网_ai写论文_论文写作_AI论文写作指导平台
+      url: https://www.aibiye.com/
+      logo: default.webp
+      description: 检测降重
+    - title: 🚀一人抵一个开发团队！OpenCode最强插件Oh My OpenCode让你拥有GPT 5.2+Gemini 3 Pro+Claude Opus 4.5组成的AI开发团队，一个咒语实现全自动编程开发 - AI超元域的博客
+      url: https://www.aivi.fyi/llms/introduce-oh-my-opencode
+      logo: default.webp
+      description: ''
+    - title: 🚀Karpathy知识库工作流终极进化：graphify知识图谱保姆级教程！代码库编译成知识图谱，支持Claude Code/Codex/OpenCode/OpenClaw！支持导出到Obsidian - AI超元域的博客
+      url: https://www.aivi.fyi/llms/graphify
+      logo: default.webp
+      description: ''
+    - title: 🚀Hermes Agent高级玩法！微信扫码即用+LLM Wiki知识库+Obsidian图谱，AI知识管理终极方案！人人都可以打造自己的数据飞轮！复刻Andrej Karpathy工作流！保姆级教程 - AI超元域的博客
+      url: https://www.aivi.fyi/llms/hermes-wiki
+      logo: default.webp
+      description: ''
+    - title: Try NVIDIA NIM APIs
+      url: https://build.nvidia.com/settings/api-keys
+      logo: default.webp
+      description: ''
+    - title: Sign In | OpenRouter
+      url: https://openrouter.ai/sign-in?redirect_url=https%3A%2F%2Fopenrouter.ai%2Fworkspaces%2Fdefault%2Fkeys
+      logo: default.webp
+      description: ''
+    - title: FarHugs 遠距抱抱 | 提供你最好的個人成長服務
+      url: https://www.farhugs.com/?utm_source=farhugs.youtube&utm_medium=bio&utm_campaign=farhugs.youtube.bio
+      logo: default.webp
+      description: ''
+    - title: AI 通识课 · 为中文学习者设计的 AI 入门课
+      url: https://aipath.buynao.com/
+      logo: default.webp
+      description: ''
+    - title: analytics.twitter.com/mob_idsync_click?slug=amYHn8tLCJ&amp;idb=AAAAEIBNEZlBBMi5t6aCg6yUNoq3rmtoGubYQ-IFfHmth7AB3y9TVWTN3_3l8gsieqJl6qvx97ldmqmQWmZn1BOgdSfhWCVQeYFleS1149DfcPHT9VM7jR3T6z_pgRi-G0ZVfX5am57RpTCCLGZynA9AxdMiHDb3Gx-Y8rfBokYLP0xZL2ytsgs2qIG1yPzlkIRbfhVMekwavYI7GlpnQ595k6Ux66Q5TPvcE2B-nuMvGtibTm3kiUz9D413kBp60z4nJ9de7Yf5ZXIv97CXVKXA-Q&amp;tailored_ads=false&amp;ad_tracking=true
+      url: https://analytics.twitter.com/mob_idsync_click?slug=amYHn8tLCJ&idb=AAAAEIBNEZlBBMi5t6aCg6yUNoq3rmtoGubYQ-IFfHmth7AB3y9TVWTN3_3l8gsieqJl6qvx97ldmqmQWmZn1BOgdSfhWCVQeYFleS1149DfcPHT9VM7jR3T6z_pgRi-G0ZVfX5am57RpTCCLGZynA9AxdMiHDb3Gx-Y8rfBokYLP0xZL2ytsgs2qIG1yPzlkIRbfhVMekwavYI7GlpnQ595k6Ux66Q5TPvcE2B-nuMvGtibTm3kiUz9D413kBp60z4nJ9de7Yf5ZXIv97CXVKXA-Q&tailored_ads=false&ad_tracking=true
+      logo: default.webp
+      description: ''
+    - title: AI智库导航-aiguide.cc | 每日最新AI工具及资讯
+      url: https://aiguide.cc/
+      logo: default.webp
+      description: ''
+    - title: programmer-sideline/docs/程序员有哪些靠谱的副业赚钱途径.md at main · CodingDocs/programmer-sideline · GitHub
+      url: https://github.com/CodingDocs/programmer-sideline/blob/main/docs/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%9C%89%E5%93%AA%E4%BA%9B%E9%9D%A0%E8%B0%B1%E7%9A%84%E5%89%AF%E4%B8%9A%E8%B5%9A%E9%92%B1%E9%80%94%E5%BE%84.md
+      logo: default.webp
+      description: ''
+    - title: 'GitHub - MadsLorentzen/ai-job-search: The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it. · GitHub'
+      url: https://github.com/MadsLorentzen/ai-job-search
+      logo: default.webp
+      description: ''
     - title: 百度百科
       url: https://baike.baidu.com
       logo: ''
