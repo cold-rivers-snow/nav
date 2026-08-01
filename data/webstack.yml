@@ -242,10 +242,6 @@
       description: YouTube 精彩视频分享。
   - term: 游戏竞技
     links:
-    - title: 百度贴吧
-      logo: 百度贴吧.jpg
-      url: ttps://tieba.baidu.com/index.html
-      description: 百度贴吧。
     - title: 台服战地
       logo: 战地之王.png
       url: https://ava.mangot5.com/ava/index
@@ -277,7 +273,7 @@
       description: 家庭云|网盘|文件备份|资源分享。
     - title: 坚果云
       logo: 坚果云.png
-      usrl: https://www.jianguoyun.com/
+      url: https://www.jianguoyun.com/
       description: 坚果云官网。
   - term: 图标素材
     links:
@@ -1542,10 +1538,6 @@
       url: http://c.biancheng.net/
       logo: ''
       description: '来自: 工具类/在线编程学习'
-    - title: 移动云智能运维平台
-      url: http://10.172.67.240:7008/dashboard
-      logo: ''
-      description: '来自: 工具类/在线编程学习'
     - title: Linux工具快速教程 — Linux Tools Quick Tutorial
       url: https://linuxtools-rst.readthedocs.io/zh_CN/latest/
       logo: ''
@@ -1590,39 +1582,6 @@
       url: https://github.com/Vu1nT0tal/yarb
       logo: ''
       description: '来自: 工具类/github'
-    - title: 'Misaka-blog/chromego_merge: Not Only for ChromeGo'
-      url: https://github.com/Misaka-blog/chromego_merge?tab=readme-ov-file
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: 在中国，私自使用非
-      url: https://github.com/hwanz/SSR-V2ray-Trojan-vpn?tab=readme-ov-file
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: 在中国，
-      url: https://github.com/Alvin9999/new-pac/wiki/%E8%8B%B9%E6%9E%9C%E7%94%B5%E8%84%91MAC%E7%BF%BB%E5%A2%99%E8%BD%AF%E4%BB%B6
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: freenodes | 免费梯子🪜 免费科学上网🛜免费翻墙🧱免费订阅♻️免费代理✨ 免费节点🆓免费机场✈️4小时更新⌚️一键订阅📪
-      url: https://freenodes.github.io/freenodes/
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: 'ermaozi/get_subscribe: ✈️ 白嫖免费机场 / 免费VPN -> 自动获取免 clash/v2ray/trojan/sr/ssr
-        订阅链接，持续更新 | 科学上网 | 翻墙'
-      url: https://github.com/ermaozi/get_subscribe
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: wgetcloud 网络加速
-      url: https://3jkkvi9afjjln2yjwnbc.wgetcloud.org/
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: VPN Gate - 免费公共VPN中继服务器列表
-      url: https://www.vpngate.net/cn/
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: 蛋蛋加速 - 网络加速
-      url: https://cn2.ddjs.store/#/register?code=yeIp28D7
-      logo: ''
-      description: '来自: 工具类/vpn'
     - title: 轩辕镜像 - 国内开发者首选的专业 Docker 镜像下载加速服务平台
       url: https://docker.xuanyuan.me/
       logo: ''
@@ -1798,6 +1757,10 @@
       url: https://github.com/bioitee
       logo: https://res.bioit.top/logos/b/bioitee.webp
       description: BioIT 爱好者主页。
+    - title: Markdown2Html
+      url: https://md.bioitee.com/
+      logo: https://res.bioit.top/logos/m/markdown.png
+      description: 公众号 Markdown 排版利器。
     - title: Hoa.moe
       url: https://hoa.moe/
       logo: github.png
@@ -2243,11 +2206,6 @@
       url: https://carbon.now.sh
       logo: https://carbon.now.sh/favicon.ico
       description: 创建和分享源代码的精美图像
-    - title: setup-ipsec-vpn
-      url: https://github.com/hwdsl2/setup-ipsec-vpn
-      logo: ''
-      description: 用于构建您自己的IPsec VPN服务器的脚本，在Ubuntu，Debian和CentOS上使用IPsec / L2TP和Cisco
-        IPsec
     - title: nginxconfig
       url: https://www.digitalocean.com/community/tools/nginx#?
       logo: https://www.digitalocean.com/favicon.ico
@@ -2497,10 +2455,6 @@
       logo: https://www.charlesproxy.com/static/img/icon.8b97278f.png
       description: Charles是HTTP代理/ HTTP监视器/反向代理，使开发人员可以查看其计算机与Internet之间的所有HTTP和SSL
         / HTTPS通信。这包括请求，响应和HTTP标头（其中包含cookie和缓存信息）。
-    - title: Tunnelblick
-      url: https://tunnelblick.net
-      logo: https://tunnelblick.net/favicon.ico
-      description: 适用于macOS的免费开源OpenVPN VPN客户端服务器软件。
     - title: Keka
       url: https://www.keka.io
       logo: https://www.keka.io/img/Keka-120x120.png
@@ -2574,14 +2528,6 @@
       url: https://sunlogin.oray.com
       logo: https://sunlogin.oray.com/favicon.ico
       description: 向日葵远程控制软件是一款免费的集远程控制电脑手机、远程桌面连接、远程开机、远程管理、支持内网穿透的一体化远程控制管理工具软件
-    - title: v2ray
-      url: https://github.com/v2ray/v2ray-core
-      logo: https://avatars0.githubusercontent.com/u/14110142?s=200&v=4
-      description: 用于构建代理绕过网络限制的平台。
-    - title: clash
-      url: https://github.com/Dreamacro/clash
-      logo: https://github.com/Dreamacro/clash/raw/master/docs/logo.png
-      description: Go中基于规则的隧道
     - title: hiddify
       url: https://hiddify.com/
       logo: https://hiddify.com/favicon.ico
@@ -2762,10 +2708,6 @@
       url: https://mail.qq.com
       logo: https://mail.qq.com/zh_CN/htmledition/images/favicon/qqmail_favicon_96h.png
       description: ''
-    - title: 热搜
-      url: /plugins/topSearch/card
-      logo: https://liukuan.cc/plugins/topSearch/static/ico.png
-      description: 聚合百度，哔站，微博等热搜！
     - title: 百度网盘
       url: https://pan.baidu.com
       logo: https://liukuan.cc/images/2024/11/23/iLqokcCLIHPchZISlDWmjpUMObKhtTyd.webp
@@ -2830,18 +2772,10 @@
       url: https://bilibili.com
       logo: https://liukuan.cc/static/bilibili.png
       description: ''
-    - title: 添加标签
-      url: tab://addicon
-      logo: https://liukuan.cc/static/addIco.png
-      description: 添加您的标签或卡片组件
     - title: Gmail
       url: https://mail.google.com/mail/u/0/#inbox
       logo: https://ssl.gstatic.com/ui/v1/icons/mail/rfr/gmail.ico
       description: null
-    - title: 天气
-      url: /plugins/weather/card
-      logo: https://liukuan.cc/plugins/weather/static/ico.png
-      description: 获取您所在地的实时天气！
     - title: LaTex公式
       url: https://www.latexlive.com
       logo: https://liukuan.cc/images/2023/11/02/YCONGelNTBfjmzevVuuYDDWICkkyInHA.webp
@@ -2870,10 +2804,6 @@
       url: https://www.ziyou.ink/
       logo: https://liukuan.cc/images/2024/11/23/tjUfovzYPqtJfxcAuWmrUatbdoMnepss.svg
       description: ''
-    - title: 书签管理
-      url: tab://bookmark
-      logo: https://liukuan.cc/static/bookmark.svg
-      description: 管理浏览器的书签列表
     - title: Lark邮箱
       url: https://larksuite.com/mail
       logo: https://liukuan.cc/images/2024/11/23/AzsliQZWBFZkvUcIxYREraoAJVDgVmbc.png
@@ -2900,30 +2830,14 @@
       description: 全网导航网，汇聚800+优质导航网站入口，包括传统导航网、垂直导航、行业导航、AI导航、地域导航网站，助你一站直达10万+优质网站资源。
   - term: mTab推荐
     links:
-    - title: 倒计时
-      url: /plugins/countdown/card
-      logo: https://go.mtab.cc/plugins/countdown/static/ico.png
-      description: 个性化自定义事件的倒计时组件
-    - title: 每日诗词
-      url: /plugins/poetry/card
-      logo: https://go.mtab.cc/plugins/poetry/static/ico.png
-      description: 精选每日诗词！
     - title: 通义千问
       url: https://tongyi.aliyun.com/qianwen/
       logo: https://go.mtab.cc/images/2024/07/15/f8fa206f86b8953031451a439d851a0f.png
       description: 阿里旗下AI大模型人工智能
-    - title: 今天吃什么
-      url: /plugins/food/card
-      logo: https://go.mtab.cc/plugins/food/static/ico.png
-      description: 吃什么是一件很难选择的大事情！
     - title: DeepSeek
       url: https://chat.deepseek.com/
       logo: https://go.mtab.cc/images/2024/09/09/f06ee4a2ee2825a604cd226bdc672bc9.svg
       description: ''
-    - title: AI助手
-      url: /plugins/ai/card
-      logo: https://go.mtab.cc/plugins/ai/static/ico.png
-      description: 您的随身AI助手
     - title: Zdir文件管理
       url: https://www.zdir.pro/zh/
       logo: https://go.mtab.cc/images/2024/07/26/4d7d367321755376126069de103d0da6.png
@@ -3264,10 +3178,6 @@
       url: https://www.convert2.cn/html-to-txt
       logo: ''
       description: '来自: 工具类/办公相关工具'
-    - title: TaleBook
-      url: http://152.136.158.210:8080/
-      logo: ''
-      description: '来自: 工具类/读书网站'
     - title: Z-Library – 世界上最大的电子图书馆。自由访问知识和文化。
       url: https://zh.z-lib.autos/
       logo: ''
@@ -3460,22 +3370,6 @@
       url: https://nmac.to/now/
       logo: ''
       description: '来自: 工具类/mac网站'
-    - title: 科学上网 技术分享
-      url: https://lovetoshare.top/
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: 迷雾通
-      url: https://geph.io/zhs
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: oneClash | 每日精选SSR/V2ray/Clash免费节点每天更新
-      url: https://oneclash.cc/
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: 免费 Clash 订阅——2025 中国国内可用的免费翻墙VPN加速器、Clash节点还有哪些？
-      url: https://clashsub.net/free-subscribe/
-      logo: ''
-      description: '来自: 工具类/vpn'
     - title: Docker Hub 镜像搜索
       url: https://docker.xpg666.xyz/
       logo: ''
@@ -4171,10 +4065,6 @@
       url: https://vuepress.vuejs.org/zh
       logo: ''
       description: Vue 驱动的静态网站生成器
-    - title: Vue SSR
-      url: https://vuepress.vuejs.org/zh
-      logo: ''
-      description: Vue服务端渲染、SEO解决方案
     - title: vue-class-component
       url: https://github.com/vuejs/vue-class-component
       logo: ''
@@ -6573,10 +6463,6 @@
       url: https://github.com/TheKingOfDuck/fuzzDicts
       logo: ''
       description: Web Pentesting Fuzz 字典
-    - title: BurpSuitePro
-      url: https://github.com/TrojanAZhen/BurpSuitePro-2.1
-      logo: ''
-      description: 免费的BurpSuitePro版本
     - title: Vulhub
       url: https://vulhub.org
       logo: https://vulhub.org/img/favicon.ico
@@ -9210,10 +9096,6 @@
       url: https://v.qq.com/channel/choice?channel_2022=1
       logo: https://liukuan.cc/static/txsp.png
       description: ''
-    - title: 视频
-      url: iconGroup
-      logo: ''
-      description: ''
     - title: 乐视视频
       url: https://www.le.com/
       logo: https://liukuan.cc/images/2024/05/14/2c75de83f1d9cb99a5027073125b48e5.svg
@@ -9303,14 +9185,6 @@
   list:
   - term: 子幽推荐
     links:
-    - title: 记事本
-      url: /noteApp
-      logo: https://liukuan.cc/static/note.png
-      description: 快捷记录您的日常笔记和灵感多端同步！
-    - title: 记事本
-      url: /plugins/noteApp/card
-      logo: https://liukuan.cc/plugins/noteApp/static/ico.png
-      description: 快捷记录您的日常笔记和灵感多端同步！！
     - title: Linux命令查询
       url: https://tool.liukuan.cc/linux
       logo: https://liukuan.cc/images/2024/11/23/lrJeisbAGziiRXQkCTLFKESZVBgtnQYa.png
@@ -9319,14 +9193,6 @@
       url: https://translate.volcengine.com/translate
       logo: https://liukuan.cc/static/huoshanfanyi.png
       description: 火山翻译-字节跳动旗下机器翻译品牌
-    - title: 日历
-      url: /plugins/calendar/card
-      logo: https://liukuan.cc/plugins/calendar/static/ico.png
-      description: 包含黄历的日历组件
-    - title: 待办事项
-      url: /plugins/todo/card
-      logo: https://liukuan.cc/plugins/todo/static/ico.png
-      description: 快捷添加待办事项
   - term: mTab推荐
     links:
     - title: mTab新标签页
@@ -10122,314 +9988,6 @@
       url: https://www.lagou.com/wn/
       logo: ''
       description: '来自: 招聘'
-  - term: vpn
-    links:
-    - title: my.ipv6boy.com
-      url: https://my.ipv6boy.com/
-      logo: default.webp
-      description: vpn
-    - title: 魔戒（MoJie）- 快速稳定的全球网络加速服务
-      url: https://mojiesafe.biz/
-      logo: default.webp
-      description: vpn
-    - title: Sakuracat - Sakuracat官网|极速安全VPN服务 |樱花猫官网
-      url: https://m-sakuracat.com.cn/
-      logo: default.webp
-      description: vpn
-    - title: 'GitHub - jichangbaike/mojienet: 魔戒.net（mojie）官网注册入口说明， 包含2026年套餐价格、测评体验与使用指南 · GitHub'
-      url: https://github.com/jichangbaike/mojienet
-      logo: default.webp
-      description: vpn
-    - title: 登录 - 魔戒.net
-      url: https://mojie.2gou.ren/login
-      logo: default.webp
-      description: vpn
-    - title: 翻墙看什么
-      url: https://cainiaokeji.blogspot.com/2024/08/blog-post.html?m=1
-      logo: default.webp
-      description: ''
-    - title: Clash-S | 免费公益Clash/V2ray/SSR/Clash-S节点小火箭订阅链接|免费梯子
-      url: https://clash-s.github.io/
-      logo: default.webp
-      description: ''
-    - title: 免费高速节点推荐|免费节点|免费SSR|免费V2ray|免费Clash|免费Trajon
-      url: https://free.datiya.com/
-      logo: default.webp
-      description: ''
-    - title: Release Linux科学上网教程，shellclash linux使用教程，Debian/Ubuntu安装clash linux server vpn · kjfx/vpn · GitHub
-      url: https://github.com/kjfx/vpn/releases/tag/linux
-      logo: default.webp
-      description: ''
-    - title: 爱分享的老李自用机场
-      url: https://li7715.blogspot.com/2025/12/blog-post.html?m=1
-      logo: default.webp
-      description: ''
-    - title: Edge 浏览器新增VPN功能！内置5G免费流量，配合CloudFlare 的Warp+爽歪歪 - 零度博客
-      url: https://www.freedidi.com/9849.html
-      logo: default.webp
-      description: ''
-    - title: Mitce - 提供線上安全
-      url: https://mitce.net/?language=chinese
-      logo: default.webp
-      description: ''
-    - title: 2026年便宜好用的翻墙机场推荐评测(科学上网长期更新) | 二毛
-      url: https://www.ermao.net/posts/vpn/#xsus
-      logo: default.webp
-      description: ''
-    - title: 常见科学上网/翻墙方法汇总:SS机场推荐/SSR机场推荐/V2ray机场推荐/免费机场/chrome浏览器插件/vpn(免费与付费)
-      url: https://groups.google.com/g/fqlt/c/AVl4LgzDSK4?pli=1
-      logo: default.webp
-      description: ''
-    - title: NekoBox for Android/PC官网介绍、教程、APK下载 - NekoBox for Android
-      url: https://getnekobox.com/
-      logo: default.webp
-      description: ''
-    - title: 2026年如何注册 Telegram 账号？如何安全使用TG？注册电报后必做的几个设置 - 数字牧民LC
-      url: https://www.digitalnomadlc.com/how-to-register-and-use-telegram/#lwptoc12
-      logo: default.webp
-      description: ''
-    - title: 魔戒.net
-      url: https://mojie.2gou.ren/sign_out
-      logo: default.webp
-      description: ''
-    - title: Global Access - 免费 Clash/小火箭节点订阅 | 独立开发与前沿 AI 必备网络
-      url: https://zmxoo.xyz/
-      logo: default.webp
-      description: ''
-    - title: Mitce - 提供線上安全
-      url: https://mitce.io/?language=chinese
-      logo: default.webp
-      description: ''
-  - term: loki
-    links:
-    - title: 10pb Grafana
-      url: http://10.251.11.39:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: 12.6 苏州loki
-      url: http://10.224.244.2:32045/explore?orgId=1&left=%5B%221640602800000%22,%221640613599000%22,%22Loki%22,%7B%22exemplar%22:true,%22expr%22:%22%7Bproc%3D%5C%22radosgw%5C%22%7D%20%7C%3D%20%5C%22lifetest27%5C%22%22%7D%5D
-      logo: default.webp
-      description: loki
-    - title: 12.6 汾湖 loki
-      url: http://10.226.134.1:32045/explore?orgId=1&left=%5B%221640602800000%22,%221640613659000%22,%22Loki%22,%7B%22exemplar%22:true,%22expr%22:%22%7Bproc%3D%5C%22ceph-osd%5C%22%7D%20%7C%3D%5C%223abfceac-3ff9-431c-93eb-137f1e489f2b.935503.1%5C%22%22%7D%5D
-      logo: default.webp
-      description: loki
-    - title: 12.6 无锡loki
-      url: http://10.234.112.1:32045/explore?orgId=1&left=%5B%22now-3h%22,%22now%22,%22Loki%22,%7B%22expr%22:%22%7Bproc%3D%5C%22ceph-osd%5C%22%7D%20%7C%3D%20%5C%229937539c-aa41-40c4-aaef-340049131033.431083.71247%5C%22%22%7D%5D
-      logo: default.webp
-      description: loki
-    - title: 南基loki
-      url: http://10.240.27.31:32045/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: 凤凰
-      url: http://10.240.27.26:32045/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: 东莞loki
-      url: http://10.228.222.31:32045/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: 12.1无锡loki
-      url: http://10.234.66.72:32045/
-      logo: default.webp
-      description: loki
-    - title: 研发区ClickHouse - Grafana
-      url: http://100.76.6.134:30080/grafana/explore?orgId=1&left=%5B%22now-1h%22,%22now%22,%22ClickHouse%22,%7B%22refId%22:%22A%22,%22instant%22:true,%22range%22:true,%22exemplar%22:true%7D%5D
-      logo: default.webp
-      description: loki
-    - title: 测试部无锡测试域Home - Grafana
-      url: http://10.253.171.203:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: 宁波1
-      url: http://10.194.151.70:30080/grafana/login
-      logo: default.webp
-      description: loki
-    - title: Grafana  郑州
-      url: http://10.180.151.50:30080/grafana/login
-      logo: default.webp
-      description: loki
-    - title: ningbo2 loki
-      url: http://10.194.152.71:30080/grafana/explore?orgId=1&left=%5B%221660816800000%22,%221660820399000%22,%22Loki_NB2%22,%7B%22expr%22:%22%7Bproc%3D%5C%22ceph-osd%5C%22%7D%22,%22refId%22:%22A%22,%22range%22:true%7D%5D
-      logo: default.webp
-      description: loki
-    - title: 10.2 - Grafana
-      url: http://10.253.171.203:32045/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: Grafana 无锡 500p
-      url: http://10.213.153.46:30080/grafana/login
-      logo: default.webp
-      description: loki
-    - title: Grafana 苏州500p
-      url: http://10.248.137.74:30080/grafana/login
-      logo: default.webp
-      description: loki
-    - title: Grafana 汾湖 500P
-      url: http://10.226.127.74:30080/grafana/login
-      logo: default.webp
-      description: loki
-    - title: Home - Grafana 重庆15.7
-      url: http://10.50.92.1:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: Home - Grafana  uat 12.6
-      url: http://10.224.244.1:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: Grafana   水果云郑州
-      url: http://10.180.151.60:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: Home - Grafana  苏州11.4
-      url: http://10.224.177.26:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: Explore - ClickHouse-1-Log_SZ - Grafana
-      url: http://10.248.135.2:30080/grafana/explore?orgId=1&left=%5B%221681268400000%22,%221681271999000%22,%22ClickHouse-1-Log_SZ%22,%7B%22refId%22:%22A%22,%22queryType%22:%22builder%22,%22rawSql%22:%22SELECT%20*%20FROM%20eos_4_region.accesser_access_log_business_all%20WHERE%20%20%20(%20bucket%20LIKE%20%27%25bucket-objectput10%25%27%20)%20AND%20(%20process_start_time%20%20%3E%3D%20$__fromTime%20AND%20process_start_time%20%3C%3D%20$__toTime%20)%20LIMIT%201000%22,%22builderOptions%22:%7B%22mode%22:%22list%22,%22fields%22:%5B%22*%22%5D,%22limit%22:1000,%22database%22:%22eos_4_region%22,%22table%22:%22accesser_access_log_business_all%22,%22filters%22:%5B%7B%22filterType%22:%22custom%22,%22key%22:%22bucket%22,%22type%22:%22String%22,%22condition%22:%22AND%22,%22operator%22:%22LIKE%22,%22value%22:%22bucket-objectput10%22%7D,%7B%22filterType%22:%22custom%22,%22key%22:%22process_start_time%22,%22type%22:%22DateTime(%27UTC%27)%22,%22condition%22:%22AND%22,%22operator%22:%22WITH%20IN%20DASHBOARD%20TIME%20RANGE%22,%22value%22:%22TODAY%22%7D%5D,%22orderBy%22:%5B%5D%7D,%22format%22:1%7D%5D
-      logo: default.webp
-      description: loki
-    - title: 200pb suzhou Grafana
-      url: http://10.253.171.167:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: Grafana 苏州 10pb
-      url: http://10.251.240.39:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: Grafana  10pb fenhu
-      url: http://10.151.6.39:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: 10pb arm Grafana
-      url: http://10.151.10.15:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: Home - Grafana  呼和浩特 16.1
-      url: http://10.70.166.1:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: COSBench Controller  wuxi 10pb
-      url: http://10.251.11.40:19088/controller/index.html
-      logo: default.webp
-      description: loki
-    - title: Grafana 10pb wuxi
-      url: http://10.251.11.40:30080/grafana/?orgId=1
-      logo: default.webp
-      description: loki
-    - title: 面板 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/#all-updates
-      logo: default.webp
-      description: loki
-    - title: 中移（苏州）软件技术有限公司统一门户
-      url: http://cmsoft.cmss.cmcc/portal/#/sidebar/index
-      logo: default.webp
-      description: loki
-    - title: Projects · Dashboard · GitLab
-      url: http://gitlab.cmss.com/
-      logo: default.webp
-      description: loki
-    - title: My Reviews · Gerrit Code Review
-      url: http://gerrit.cmss.com/dashboard/self
-      logo: default.webp
-      description: loki
-    - title: 'BC-SDS - Revision 6337: /product/BC-oNest'
-      url: http://svn.cmss.com/svn/BC-SDS/product/BC-oNest/
-      logo: default.webp
-      description: loki
-    - title: 10.10.10.2/portal/login?t=1623374981.586148&amp;
-      url: http://10.10.10.2/portal/login?t=1623374981.586148&
-      logo: default.webp
-      description: loki
-    - title: 研发管理规制（管理办法、实施细则等） - IaaS产品部 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/pages/viewpage.action?pageId=86237627
-      logo: default.webp
-      description: loki
-    - title: gerrit.cmss Code Review
-      url: http://gerrit.cmss.com/#/c/oNest/onest/+/3263831/1/src/rgw/rgw_dynamodb.cc
-      logo: default.webp
-      description: loki
-    - title: My Reviews | gerrit.cmss Code Review
-      url: http://gerrit.cmss.com/#/dashboard/self
-      logo: default.webp
-      description: loki
-    - title: 'BC-SDS - Revision 6848: /product/BC-SDS'
-      url: http://svn.cmss.com/svn/BC-SDS/product/BC-SDS/
-      logo: default.webp
-      description: loki
-    - title: 科研管理平台
-      url: http://keji.hq.cmcc/
-      logo: default.webp
-      description: loki
-    - title: linux/accesser · Gerrit Code Review
-      url: http://gerrit.cmss.com/admin/repos/linux/accesser
-      logo: default.webp
-      description: loki
-    - title: System Dashboard - 中移软件任务跟踪系统-JIRA
-      url: http://jira.cmss.com/secure/Dashboard.jspa
-      logo: default.webp
-      description: loki
-    - title: 面板 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/index.action#all-updates
-      logo: default.webp
-      description: loki
-    - title: 页面 - OSG 对象存储产品组 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/display/OSG
-      logo: default.webp
-      description: loki
-    - title: 发票管理
-      url: http://100.71.7.60:30080/
-      logo: default.webp
-      description: loki
-    - title: 云空间
-      url: https://www.ecpan.cn/
-      logo: default.webp
-      description: loki
-    - title: 登录|智维平台
-      url: http://ccops-paas.cmecloud.cn/login/
-      logo: default.webp
-      description: loki
-    - title: 12.6对象存储规划方案v1.13（调整苏州公网地址和策略）
-      url: https://docs.qq.com/sheet/DV01ZVlNMVWlqV2lL?tab=tq9yph&_t=1635745084963@
-      logo: default.webp
-      description: loki
-    - title: 移动云测试平台
-      url: http://utp.cmss.com/dashboard
-      logo: default.webp
-      description: loki
-    - title: 移动云4A管控平台-云阙
-      url: https://10.174.76.181:8081/iga/login_sy.html
-      logo: default.webp
-      description: loki
-    - title: CI Lint · EOS / accesser / accesser-src · GitLab
-      url: http://gitlab.cmss.com/eos/accesser/accesser-src/-/ci/lint
-      logo: default.webp
-      description: loki
-    - title: 欢迎来到OSG对象存储产品组 ;-) - OSG 对象存储产品组 - 中移（苏州）软件技术有限公司
-      url: http://conf.cmss.com/pages/viewpage.action?pageId=142459489
-      logo: default.webp
-      description: loki
-    - title: Harbor
-      url: http://100.71.8.124/harbor/projects
-      logo: default.webp
-      description: loki
-    - title: Harbor 125
-      url: http://100.71.8.125/harbor/projects/43/repositories
-      logo: default.webp
-      description: loki
-    - title: Harbor
-      url: http://100.71.8.120/harbor/sign-in?redirect_url=%2Fharbor%2Fprojects
-      logo: default.webp
-      description: loki
-    - title: 草帽云
-      url: http://10.160.22.20:31114/login
-      logo: default.webp
-      description: loki
-    - title: 客户端检查
-      url: https://112.25.65.61:52227/sdp/theme/check_client.html
-      logo: default.webp
-      description: loki
 - taxonomy: AI工具
   icon: fas fa-robot
   list:
@@ -11231,10 +10789,6 @@
       url: https://huggingface.co/
       logo: ''
       description: '来自: AI模型工具'
-    - title: Users
-      url: https://c.aiguobit.com/users/ucenter
-      logo: ''
-      description: '来自: work/工具'
     - title: ChatGPT中文版在线使用、永久免费、无需登录 - CodeNews
       url: https://codenews.cc/chatgpt
       logo: ''
@@ -11434,10 +10988,6 @@
       description: '来自: ai'
     - title: v3o6fk.aitianhu1.top
       url: https://v3o6fk.aitianhu1.top/
-      logo: ''
-      description: '来自: ai'
-    - title: New Chat
-      url: http://101.32.176.47:3080/chat/new
       logo: ''
       description: '来自: ai'
     - title: DeepSider - 免费体验GPT4o、Claude、Gemini、DeepSeek
@@ -11657,30 +11207,10 @@
       url: https://www.jianshu.com/p/9ed9d8b96f4a
       logo: ''
       description: '来自: 工具类/工具'
-    - title: User::login|倚天剑shadow|clash免费订阅|ShadowsocksR|Hysteria2|Trojan服务器|ss|ssr  需要提醒的是，在中国，私自使用非法定的代理服务器、网络工具等绕过封锁限制访问境外网站或获取网络服务属于违法行为。请遵守国家法律法规，合法使用网络。
-      url: https://c.aiguobit.com/users/login
-      logo: ''
-      description: '来自: 工具类/vpn'
     - title: 免费资源网
       url: https://free.com.tw/
       logo: ''
       description: '来自: 工具类/工具'
-    - title: berryhub
-      url: https://berryhub.org/
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: mitce
-      url: https://mitce.net/
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: 量子航空
-      url: https://quantum-air.xyz/
-      logo: ''
-      description: '来自: 工具类/vpn'
-    - title: 在中国，未经电信主管部门批准，不得
-      url: https://clashxiazai.com/free-node/
-      logo: ''
-      description: '来自: 工具类/vpn'
     - title: iThinkScene 官网 - 小红书图文AI写作神器 | 一键批量创作小红书图文、短视频、公众号文章
       url: https://app.ithinkai.cn/
       logo: ''
