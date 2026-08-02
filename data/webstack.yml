@@ -199,6 +199,12 @@
       logo: ProcessOn.png
       url: https://www.processon.com/
       description: 免费在线作图、实时协作。
+  - term: 科研计算
+    links:
+    - title: WolframAlpha
+      logo: default.webp
+      url: https://www.wolframalpha.com/
+      description: 丢个数学公式、科学问题或股票数据进去，秒出精确计算和可视化图表，科研学习神器。
 - taxonomy: 悠闲娱乐
   icon: fas fa-gamepad fa-lg
   list:
@@ -1695,6 +1701,10 @@
       url: https://jbiaojerry.github.io/ebook-treasure-chest/
       logo: https://jbiaojerry.github.io/ebook-treasure-chest/favicon.ico
       description: 收集各种电子书资源的宝藏箱。
+    - title: Internet Archive
+      url: https://archive.org/
+      logo: default.webp
+      description: 海量数字资源宝库，免费借电子书、看纪录片、下老软件，还能用时光机查网页历史快照。
   - term: 博客论坛
     links:
     - title: Inoreader
@@ -6371,6 +6381,10 @@
   list:
   - term: 网络安全
     links:
+    - title: Have I Been Pwned
+      url: https://haveibeenpwned.com/
+      logo: default.webp
+      description: 输邮箱秒查数据是否泄露，及时发现密码有没有被曝光，安全意识必备。
     - title: 乌云网镜像
       url: http://wooyun.2xss.cc
       logo: ''
@@ -7290,6 +7304,10 @@
       url: https://www.pansoso.com
       logo: default.webp
       description: 盘搜搜官网支持百度网盘，夸克网盘，阿里云盘，UC网盘，迅雷云盘等搜索服务，是您工作、学习、娱乐的网盘搜索神器。
+    - title: 全盘搜
+      url: https://quanpan.xyz/
+      logo: default.webp
+      description: 聚合多平台网盘资源搜索工具，支持百度网盘、阿里云盘、夸克云盘、迅雷网盘等，资源实时失效检测。
 - taxonomy: 金融业务
   icon: fas fa-money-bill-wave fa-lg
   list:
@@ -8933,6 +8951,10 @@
       url: https://guangzhou.xueanquan.com/
       logo: https://res.bioit.top/logos/x/xueanquan.jpg
       description: 广州市学校安全教育平台。
+    - title: EDU邮箱认证导航
+      url: https://nav.edumails.cn/
+      logo: default.webp
+      description: 学生教育优惠项目导航，edu邮箱认证、SheerID/文件认证等方式获取国内外 AI、云盘、设计开发等工具的教育优惠。
   - term: 书籍文档
     links:
     - title: Neat Reader
@@ -10253,6 +10275,10 @@
       url: https://www.wenxiaobai.com/
       logo: default.webp
       description: 搜索
+    - title: Perplexity AI
+      url: https://www.perplexity.ai/
+      logo: default.webp
+      description: 带真实来源链接的AI搜索引擎，回答复杂问题直接附可点引用，更适合深度研究。
     - title: 知乎直答
       url: https://zhida.zhihu.com/
       logo: default.webp
