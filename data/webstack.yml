@@ -1050,10 +1050,14 @@
       description: 拥有强大的下载系统，为用户提供超大的存储空间，支持快速同步上传和下载，还可以边下载边浏览播放，云盘安全由大平台保障，随时方便管理自己的文件，工作、娱乐和日常生活记录都不错！
   - term: 技术收藏
     links:
-    - title: Supabase | The Postgres Development Platform.
+    - title: Supabase - The Open Source Firebase Alternative
       url: https://supabase.com/
-      logo: default.webp
-      description: ''
+      logo: https://supabase.com/favicon/favicon.ico
+      description: 开源实时数据库与后端即服务（BaaS）平台，提供 Postgres 数据库、Auth 认证、Storage 存储、Edge Functions 和 Realtime 实时订阅，开发者可在分钟级时间内构建并部署全栈应用。
+    - title: TokenRouter - Verified Models with Enterprise-Grade Controls
+      url: https://www.tokenrouter.com/
+      logo: https://www.tokenrouter.com/logo-without-title.png
+      description: 统一的 AI 模型聚合与分发中心，将主流大语言模型转换为 OpenAI、Claude 与 Gemini 兼容 API，提供集中化管理、多模型对比与定价，面向个人开发者与企业提供企业级控制能力。
     - title: gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
       url: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
       logo: default.webp
@@ -8362,6 +8366,14 @@
       url: https://www.5o5k.com
       logo: https://www.5o5k.com/upload/mxprocms/20250107-1/6b88cb2bc99f2fdaa56f6fd67c5c543e.png
       description: 蘑菇影视是一个内容丰富、资源齐全的优质影视网站，汇聚海内外最新热门电影、电视剧、综艺、动漫等多种类型。网站更新及时，提供高清流畅的视频体验，支持在线观看与极速下载。页面设计简洁明了，分类清晰，搜索便捷，让用户能够快速找到想看的影片。无论是经典佳作还是最新大片，这里应有尽有，是影视爱好者不可错过的观影平台。
+    - title: Moovie 影牛 - 发现你的下一部电影
+      url: https://moovie.c2v2.com/
+      logo: https://moovie.c2v2.com/static/img/logo.png
+      description: 全网影视搜索聚合平台，支持 M3U8 播放器、IPTV 直播与 TVBox 配置，提供热门好片、搜索趋势、为你推荐与影视广场等功能；站内不存储任何视频文件，仅提供搜索与聚合播放服务。
+    - title: LIBVIO 影视
+      url: https://www.libvio.cam/
+      logo: https://libvio.cam/template/libvio/statics/img/logo.png
+      description: LIBVIO 是一个聚合类免费影视资源站，提供电影、电视剧、纪录片、动漫、综艺等在线播放；因域名曾遭污染，最新永久发布地址为 libvio.lol，请留意地址变化（版权内容请通过正规渠道观看）。
   - term: 短视频/直播
     links:
     - title: 发现热门视频 | Facebook
@@ -8955,6 +8967,10 @@
       url: https://nav.edumails.cn/
       logo: default.webp
       description: 学生教育优惠项目导航，edu邮箱认证、SheerID/文件认证等方式获取国内外 AI、云盘、设计开发等工具的教育优惠。
+    - title: italki - 1对1 在线外语学习平台
+      url: https://www.italki.com/zh-cn
+      logo: https://www.italki.com/favicon.ico
+      description: 全球知名的一对一在线外语学习社区，提供互动语言伙伴和认证专业教师课程，支持口语、听力、语法等多种学习目标，帮助你与母语老师随时随地练习外语。
   - term: 书籍文档
     links:
     - title: Neat Reader
@@ -9458,8 +9474,8 @@
       description: ''
     - title: Mike Chong – Software Engineer &amp; Technical Leader
       url: https://www.realmikechong.com/en#writing
-      logo: default.webp
-      description: ''
+      logo: https://www.realmikechong.com/favicon.ico
+      description: 前微软工程师 Mike Chong 的个人博客，专注 AI 工程、vibe coding、创业与科技趋势，如 Codex、Claude Code、AI 时代软件工程等主题的文章。
     - title: 我与赌毒为敌
       url: https://wwwp.lanzout.com/b00zxpzouj
       logo: default.webp
