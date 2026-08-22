@@ -1641,6 +1641,10 @@
       url: https://jimmysong.io/zh/book/
       logo: default.webp
       description: rss
+    - title: rss finder
+      url: https://www.rsslookup.com/
+      logo: default.webp
+      description: rss
     - title: 通义智文_AI助手_文档阅读_人工智能-阿里云
       url: https://tongyi.aliyun.com/zhiwen?spm=5176.28326591.0.0.4d0555e3Bf47Vq
       logo: default.webp
